@@ -1,0 +1,13 @@
+# Site settings
+title: Stuff David Says
+email: davidlamontrichards@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Random ramblings of problems I've encountered and/or solved as I write code,
+  build systems, and generally enjoy life.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://davidrichards.github.io"
+twitter_username: drichards
+github_username:  davidrichards
+
+# Build settings
+markdown: kramdown
