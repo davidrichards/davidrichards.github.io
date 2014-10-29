@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  A Gaggle of React Components
+summary: Spurred by student questions, I realize I should share how I progress through a problem. I take a concept from React.js and walk carefully from step to step.
 date:   2014-10-28 22:33:00
 categories: software react
 ---

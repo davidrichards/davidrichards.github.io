@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Getting Out of the Mud
+summary: Instead of feeling stupid, try learning new skills differently.  This article explores the SQ3R method and how I apply it in my work.
 date:   2014-10-26 16:54:00
 categories: software
 ---

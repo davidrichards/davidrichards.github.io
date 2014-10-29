@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Agile and Agility"
+summary: Striving to learn lessons from my experience at a large corporation, this article combines Dave Thomas' ideas on agility with my desire to do something worthwhile with my career.
 date:   2014-10-21 15:24:00
 categories: software agility
 ---

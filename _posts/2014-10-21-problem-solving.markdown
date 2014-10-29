@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Problem Solving"
+summary: Taking the advice of the JavaScript community, I'm blogging whenever I solve a problem.  This helps me remember the lessons I've learned.  It also helps me clarify my thoughts.
 date:   2014-10-21 14:58:57
 categories: software
 ---
