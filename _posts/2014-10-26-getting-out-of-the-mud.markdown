@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Getting Out of the Mud
-summary: Instead of feeling stupid, try learning new skills differently.  This article explores the SQ3R method and how I apply it in my work.
+summary: New learners sometimes feel stupid when learning something new.  It's not easy, but the problem isn't intelligence.  It's often practice and familiarity.  One way to get that quickly is SQ3R.  Here's an introduction to the idea and how I applied it to my work.
 date:   2014-10-26 16:54:00
 categories: software
 ---
