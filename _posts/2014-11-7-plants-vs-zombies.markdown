@@ -36,7 +36,7 @@ It's kind of like every level of Zombies.  They don't keep giving you easy level
 
 ### So how do I learn to code?
 
-Well, you try something.  Pick a language.  [Try Python](https://try-python.appspot.com/) or [Ruby](http://tryruby.org/levels/1/challenges/0) or even [Clojure](http://www.tryclj.com/) (ooh, Clojure...) or [R][http://tryr.codeschool.com/].
+Well, you try something.  Pick a language.  __[Try Python](https://try-python.appspot.com/)__ or __[Ruby](http://tryruby.org/levels/1/challenges/0)__ or even __[Clojure](http://www.tryclj.com/)__ (ooh, Clojure...) or __[R](http://tryr.codeschool.com/)__ if statistics are your thing.
 
 I started with [Turtle](http://turtleacademy.com/) in the Eighties.  I was frustrated that I couldn't do much with it, so I kept going.
 
