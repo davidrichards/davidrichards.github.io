@@ -50,11 +50,11 @@ I have a love-hate relationship with all of that stuff.  It has its place. Just 
 
 I have all the respect in the world for people who write tutorials.  It's not easy to write a good tutorial.  I haven't found a tutorial yet (seriously) that hasn't fallen down before the end.  They start simple, and they get you excited, and then they...I don't know what, they fall off the road and get lost in the weeds.
 
-I think the issue is the tutorial starts out all about the user and usually ends being about the writer.  If I'm writing a tutorial to show off how dog-gone smart I am, I'm not doing you any good, am I?
+I think the issue is the tutorial starts out all about the reader and usually ends being about the writer.  If I'm writing a tutorial to show off how dog-gone smart I am, I'm not doing you any good, am I?
 
 __Computer Science degrees?__ Awesome stuff.  Fascinating stuff.  You'll learn about limits and optimal ways of doing things and they'll put you through the paces.  This is good.  It's just not the same thing as coding.  You may want to invest in your own deep knowledge some day, and a CS degree is an ocean of great knowledge.  But we're talking about learning to solve a problem with a computer, which is an entirely different thing.
 
-Horror stories from bootcamps have followed suit.  They start off great, but if a student falls behind, they get left behind.  I've heard, "I only have a bootcamp education" as an excuse too many times in recent years.  I'm sure they're not all bad.
+__Bootcamps...__not a bad idea, not a wonder drug either.  If getting past the initial humps is all that's holding you back, enroll in one today.  If you'd like something deeper and longer lasting, you'll want to have a habit of trying things out.  You'll want that whether you go to a bootcamp or not.
 
 ### What are you saying?
 
