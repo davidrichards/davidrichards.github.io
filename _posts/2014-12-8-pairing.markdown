@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pairing"
-summary: Pairing isn't extreme unless you make it extreme.
+summary: Pairing isn't extreme unless you make it extreme.  Here's a detailed look at what I've learned from it.  It's also an invitation if you want to reach out and build something together.
 date:   2014-12-08 18:00:00
 categories: software agility
 ---
