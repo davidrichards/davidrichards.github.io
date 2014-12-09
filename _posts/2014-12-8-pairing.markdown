@@ -1,0 +1,118 @@
+---
+layout: post
+title:  "Pairing"
+summary: Pairing isn't extreme unless you make it extreme.
+date:   2014-12-08 18:00:00
+categories: software agility
+---
+
+I was first introduced to pairing as an XP principle, [an extreme-programming principle][xp].  The hype behind that was people could get a 10x (or so) increase in their productivity by embracing these "extreme" principles.
+
+Maybe.
+
+I'm not so interested in superhero status, but I like to have my personal-best getting better over time.  So, I bought into the pairing concept.  I've done it on a number of projects.  What are some of the results?
+
+Overall, __I'd absolutely do it again__.  I wrote better code, I'm proud of the things I delivered, and I'm a better developer.  However...it's tough.  It's exhausting.  It takes more patience and concentration.  My thoughts, habits, strengths and weaknesses are all exposed.  If I had any misgivings of being better than I am, pairing brings me down to earth.
+
+Maybe, with all this commitment, it's just hardcore.
+
+## Scenarios
+
+Over the years, I've done this in a lot of different ways.  Here are a few.
+
+### Two Strong Developers
+
+For two senior developers that have been successful in the past, pairing can be especially challenging and rewarding.  We both come to the table with a lot of experience and confidence.
+
+As two strong developers, it can slow things down at times.  If we're tackling a problem we've both seen, __what happens when we want to take distinctively different approaches to the problem?__
+
+We duke it out for a while.  In my experience, this is the time to really use my best communication skills: confirm I understand what they're saying, patiently ask what they're trying to accomplish.  Someone is usually going to want to lead out with their ideas.  The other person is going to patiently evaluate the idea.
+
+__You can't spend too much time getting perfect ideas up front.__  Someone's going to say, "let's try this and see what we learn."  At least, that's how I've pushed past these difficult moments in the past.  The point is to discover if we're on the right track for the problem in front of us, rather than all the problems that may or may not come up in the future.
+
+I've also stopped things in the past and wrote or reviewed a __use case__ at this point.  What are we actually trying to do?  The user submits this, the system takes these steps, this is what is returned, this is how we handle errors.  Simply re-navigating the goals seems to push two senior developers along.
+
+At the end of the day, however, __two senior developers can create some amazing systems together__.  They have the kind of experience that keeps things focused.  It's easier to grasp complex ideas.  It's easier to just produce and not spend a lot of time teaching or being taught.  In most circumstances, it really is a powerful way to produce.  Speaking with a pair after one such project, he told me he'd never written such graceful code.  I hadn't either.  We bumped heads and had very human experiences, but we were both glad we'd done it.  I'd do it again, if the chance ever comes up.
+
+### Senior and Junior Pairs (Senior Perspective)
+
+This is also a difficult way to pair.  If I were honest, I'd admit some of my worst habits here.  Things like telling my junior keystrokes (how annoying, really).  If someone is very junior, they're going to be struggling on all levels.
+
+They're not going to know the ancillary technologies very well either.  They've probably spent their time learning language syntax and programming patterns.  They won't necessarily know their editor well, version control, debugging tips, testing patterns...so many non-core skills come a little later.
+
+__However, sometimes they really surprise me__.  They have fresh eyes.  They've picked something up that I'd skimmed over.  Or, they are sometimes more up to date on the latest release of things.  It's never a good idea to take a Junior's skills for granted.
+
+Also, there is sometimes a different purpose for pairing with a junior developer.  They may need to take over some of your responsibilities.  They may need to become more self-sufficient.
+
+When working with a more-junior developer, I have to explain things quickly and simply.  I can't really explain all the history of something and expect them to benefit from that.  I have to know more-clearly why we do things.  I tend to prune my practices more when I'm with new developers.  I have a more-critical eye on frameworks and all their complexity.
+
+### Senior and Junior Pairs (Junior Perspective)
+
+Yeah, I'm pretty weak here...I was too big of a coward to do this much as a junior developer.  I'll tell you what I've heard.
+
+__The Junior needs to stay engaged__.  They need to do __most of the typing__.  They need to be able to __quickly move through the sticky areas__.  They are looking for a rhythm, a pattern, the big picture.  They MUST ask a lot of questions.
+
+Remember, __juniors rule in pair programming__.  Their needs drive the whole process.
+
+I've heard it's a good idea to seek out a lot of pairing partners for a while.  It rounds you out quicker.  It helps keep you from getting into bad habits from a sloppy pair.  It helps you evaluate if someone is a good pair or is just wasting your time.  It's important to keep stretching, learn what you can.
+
+## Issues
+
+So, yes, pairing...it's a mixed bag.  What are the biggest issues?
+
+Besides the ones I've mentioned, there are a few more to mention.
+
+__Pairs should always take a break when one of them is tired__.  This needs to happen without judgement.  It gets really yucky if someone drags the other one through the code.  If nobody's forcing you to pair, you've got to leave some good will on the table to be able to recommit to it.
+
+__Pairing should be proceeded by preparation__.  That means, figure out the development environment ahead of time.  Setup server access.  Agree on code editors.  Make sure everyone can get to the source repositories.  This is especially important when remote pairing.  (There are actually some useful tips and tricks in the [Remote Pairing book][remote].)
+
+__Pairing shouldn't get rigid__.  Let things flow.  These are two minds coming together.
+
+## Benefits
+
+Now, the juicy stuff.  There are things that you get from pairing that are harder to get solo.
+
+### Distractions
+
+One thing that goes away with pairing is some of the distractions.  There's just not time for checking email, Twitter or Facebook when you have someone waiting on you.  This is generally a good thing.
+
+In my book, coders use these distractions to reduce the pressure they're under.  There's an unexpressed though, a looming deadline, a bug that doesn't make sense, a deep stack that needs to be groked or a decision that needs to be made.  none of these are pleasant moments.  All of these add fatigue.  So, we do something else for a moment, or longer.
+
+I don't have a problem with this, but it's best to lean in and do what we can, then take a break and regain our composure.
+
+Coding is hard work, and it has a pace to it.  As long as that pace is an honest best effort, that's great.  If pairing helps keep me honest, all the better.
+
+### TDD
+
+Have you ever skipped testing while coding?  I have.  It's easy to do.  With pairing, not so much.  It's almost impossible to really groove together unless there are tests involved.  It cements the ideas, clears out the cobwebs, pick a metaphor, it's important with pairing.
+
+In fact, two projects I've done as a pair have turned out incredibly well.  My pair told me he'd never written code he was this proud of before.  Neither had I.  Neither of us could have come up with such an elegant and cohesive solution on our first try.  And, I have all the respect in the world for this developer.
+
+There's a fun way to pair that's called __ping pong programming__.  Maybe you've heard of it.  One person writes a test, the other person writes code to make the test pass.  Then the second person writes a test and hands control back over to the other person.
+
+### Team...Whatever
+
+At the end of the day, it's about bringing a team together.  It's about communication.  It's about lifting each other past the humps.  It's about making sure there's someone there that can help maintain the code base.  It's about keeping things clean enough to concentrate.
+
+When you pair, you get all this.  You go through a lot of shared understanding.  It's like having several quick iterations at your disposal, every time you ship.
+
+That makes some incredibly solid software.
+
+In fact, for one project I did this way, __we didn't have any reported bugs, only requested new features__.  I'm not saying there were no bugs, they just didn't come up.  I think this was all about the process we used when making the software.
+
+## Business Case
+
+I don't know the dollars and cents of pairing.  I don't know if more code is actually generated.  __I'm pretty sure better code is often generated__.  I'm pretty sure the long-term maintenance cost of such code is dramatically reduced.  I'm pretty sure retention in a company goes up and cross training goes up and creativity goes up.  I'm pretty sure it's easier to maintain a culture in a business that works so closely together.  All of these things have value, but I don't know how they eventually show up on a profit and loss statement or balance sheet.
+
+I've known respectable managers that __just don't go in for pairing__.  They have another way of managing things.  Frankly, I think they're letting themselves down a little.  Maybe they're reacting too much to one person's bad experience, or a need for control.  I don't know.  Maybe they've taken a harder look at it than I have.  If you have a strong opinion about this ([let me know](david@hirablecoder.com), I'd love to broaden my perspective).
+
+One thing is for sure, __pairing doesn't pay off without a lot of practice__.  Plan on that.
+
+__If I were to run a team today, I'd encourage pair programming__.  It would reduce many of my risks for the team.  It would expose many of the problems.  It would replace top-down micro management policies with collaborative bottom-up practices.
+
+## Do I have you excited?
+
+This isn't new.  But, if it smells like promise, you can do something about it.  You can pair with me.  Just drop me a note at <david@hirablecoder.com>.  We'll setup a remote pairing opportunity for both of us.
+
+[xp]: http://www.ppig.org/newsletters/2006-09/3-overview-xp.pdf
+[remote]: https://pragprog.com/book/jkrp/remote-pairing
