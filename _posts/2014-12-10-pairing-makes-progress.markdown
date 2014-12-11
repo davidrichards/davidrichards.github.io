@@ -30,4 +30,4 @@ I let the sessions go a little long.  When I suggested we call it a session, my 
 
 __Humor__ was my best ally in the experience.  Any time I could tell a little joke or keep things light, my pair seemed to relax more and lean more into the experience.
 
-That's about it for now.  I'll share more experiences as I have them.  I'll also talk with some of these super pair-ers and see what they'd suggest.
+That's about it for now.  I'll share more experiences as I have them.  I'll also talk with some of these super pair-ers and see what they'd suggest.  The invitation is still open, of course.  If you'd like to stretch your coding muscles, drop me a line at <david@hirablecoder.com> and we'll find a time to do this.
