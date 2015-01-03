@@ -52,7 +52,7 @@ We came up with a list over dinner.  Here are the things I think make the most p
 
 ### The Consequences
 
-If I know what it makes a great coder, and I can do all of those things to some degree, __what puppies would I save?__
+If I know what makes a great coder, and I can do all of those things to some degree, __what puppies would I save?__
 
 It turns out, I'd want to make the Internet a safer place.  I've been working for a few weeks with some amazing Swedes.  I'm actually working tonight on some demos for our Internet security solutions.  Safety, I think, is something I can help create.  The ability to know that at least some threats to my family and regular users on the Internet can be at least a little more distant, a little less scary.  I'll share more on that in some less-cryptic way soon.
 
