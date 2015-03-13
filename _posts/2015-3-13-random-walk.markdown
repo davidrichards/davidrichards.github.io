@@ -26,7 +26,7 @@ So, I'm sweating it a little.  Things are working, but I can't see what I haven'
 
 Fast forward to last night.  I'm pretty tired.  It's been incredibly productive lately, but I'm more than a little frazzled.
 
-Why don't I check out Jamis' book?
+Why don't I check out [Jamis' book](https://pragprog.com/book/jbmaze/mazes-for-programmers)?
 
 I see this in the introduction: **"You'll discover yourself brimming with _ideas_, perhaps the most effective cure there is for a programmer's block, burn-out and gray days."**  That's exactly what this frazzle is all about.
 
