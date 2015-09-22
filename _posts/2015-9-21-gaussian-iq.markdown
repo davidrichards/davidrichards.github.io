@@ -62,7 +62,7 @@ Here are a few examples, testing our method.
 
     print(z_score(95, 100, 15), z_score(130, 100, 15), z_score(7, 100, 15))
     # We should see -0.3333333333333333 2.0 -6.2 or 1/3 deviation below average, 2 above and 6.2 below.
-
+<br />
     -0.3333333333333333 2.0 -6.2
 
 
