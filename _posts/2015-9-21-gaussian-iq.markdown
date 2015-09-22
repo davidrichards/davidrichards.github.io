@@ -5,9 +5,6 @@ summary: Instead of raging online, I thought I'd do a practical refresher on the
 date:   2015-9-21 18:09:00
 categories: statistics python
 ---
-<script type="text/javascript"
-  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
 
 # Gaussian IQ
 
