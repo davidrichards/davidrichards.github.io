@@ -42,7 +42,9 @@ The z-score is the distance between an observed value and the mean value divided
 
 $$z = \frac{x_{i} - \mu}{\sigma}$$
 
-where $x_{i}$ is the observed value, $\mu$ is the mean and $\sigma$ is the standard deviation.
+<p>
+  where $x_{i}$ is the observed value, $\mu$ is the mean and $\sigma$ is the standard deviation.
+</p>
 
 Put another way, the mean measures the middle of normal data and the standard deviation measures the width.  If it's wide, there's a lot of variance in the data, and if it's narrow, almost everything comes out near the mean value.  The z-score measures how different an observation is from the middle of the data.  There's [another discussion](http://math.stackexchange.com/questions/133701/how-does-one-gain-an-intuitive-understanding-of-the-z-score-table) of this that might be useful.
 
