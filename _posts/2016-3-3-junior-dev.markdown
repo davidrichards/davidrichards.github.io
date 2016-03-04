@@ -2,7 +2,7 @@
 layout: post
 title:  How Not to Be a Junior Developer
 summary: I keep having this conversation about how to break into the development world.  Some of these people have gone to developer boot camps or spent years learning new skills.  A lot of the advice seems to be the same, stop being a junior developer and learn how to contribute to a team.
-date:   2015-3-3- 21:27:00
+date:   2016-3-3- 21:27:00
 categories: development
 ---
 
@@ -41,5 +41,7 @@ I'm not sure that I can, it takes grit to get through the hard parts.  Usually t
 *Learn as you go.* Most of us can't remember most of what we've learned.  Once we are confident in our ability to code, we learn to forget quickly and not try and figure everything out first.  We just work from task to task.  If you met me for the first time and asked me about projects I've done, I might sound like a complete idiot.  That's because I'm actively forgetting what I've done and try to just stay focused on one thing at a time.
 
 *Make friends.*  It isn't enough to learn how to code.  Delivering working systems means working well with others.  It also means having someone that can pair with you or give you new ideas when you're stuck.  Nobody said that you have to be smartest person in the room, you just need to be a dependable contributor to the team.
+
+*Embrace the supporting tools.* You'll need to learn quite a bit about the command line.  You'll need to learn your operating systems package manager.  You'll need source control.  You'll need to be able to edit files on other servers.  You'll need to be able to login to other servers.  There's a lot of little things that you've got to figure out how to do.  You'll need to learn all the tricks about your text editor or IDE.  Make sure you're embracing some of this all the time.  Make sure you have a go-to person around for this kind of thing until it gets easier (so you don't lose your motivation when something like this gets in your way).
 
 Learning to code can be a rewarding and worthwhile thing to do.  It's not easy, and it's not done very quickly.  Just remember that all those tutorials and quick answers on StackOverflow aren't your quickest path to becoming at least a mid-level developer.
