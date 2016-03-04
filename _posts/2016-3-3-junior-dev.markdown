@@ -44,4 +44,10 @@ __Make friends.__  It isn't enough to learn how to code.  Delivering working sys
 
 __Embrace the supporting tools.__ You'll need to learn quite a bit about the command line.  You'll need to learn your operating systems package manager.  You'll need source control.  You'll need to be able to edit files on other servers.  You'll need to be able to login to other servers.  There's a lot of little things that you've got to figure out how to do.  You'll need to learn all the tricks about your text editor or IDE.  Make sure you're embracing some of this all the time.  Make sure you have a go-to person around for this kind of thing until it gets easier (so you don't lose your motivation when something like this gets in your way).
 
+__Meet with the community.__  Local users groups are incredible at demonstrating the bigger picture.  You'll see the same problems differently.  You'll be able to pull someone aside and discuss something you're having a hard time and get their take on things.  The burden of addressing all there is to handle is a lot easier with a piece of pizza and drink in your hand.
+
+__Keep moving.__  If you're in a job for too long, you may want to move on.  We all plateau when we've been at the same project too long.  If you're able to continue taking on new challenges and projects at the job you're at, you don't have to change jobs.  It's just important to have challenges that push you forward.  It's not just the main day-to-day work that you need to improve, but also confidence with the supporting tools.  A new project means reacquainting yourself with the uncomfortable.
+
 Learning to code can be a rewarding and worthwhile thing to do.  It's not easy, and it's not done very quickly.  Just remember that all those tutorials and quick answers on StackOverflow aren't your quickest path to becoming at least a mid-level developer.
+
+*Thanks to [Brian Broderick](https://github.com/brianbroderick) for notes on this post.*
