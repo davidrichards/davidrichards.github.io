@@ -6,11 +6,11 @@ date:   2016-3-30-18:15:00
 categories: development
 ---
 
-Once upon a time, a long time ago, I was at a Ruby meetup with Andrew Shafer ([@litleidea](https://twitter.com/littleidea)) about testing.  He asked us all if we test our code.  A few hands went up.  "What, you never verify that your code runs before you ship it?"  All our hands went up.  His point was that writing an automated test is just an extension of the normal things we all do anyway.
+Once upon a time, a long time ago, I was at a Ruby meetup with Andrew Shafer ([@litleidea](https://twitter.com/littleidea)) talking about testing.  He asked us all if we test our code.  A few hands went up.  "What, you never verify that your code runs before you ship it?"  All our hands went up.  His point was that writing an automated test is just an extension of the normal things we all do anyway.
 
 Talking with BJ Nielsen ([@localshred](https://twitter.com/localshred)) tonight about testing, he reminded me of the same thing.  We all test all the time, just we feel like it's some kind of elite thing that we aspire to.
 
-Back in the day of Engels and Marx, they talked a lot about the Bourgeoisie and Proletariat.  Marx invented this concept to give a name to the people most people worked for.  The Bourgeoisie are the people that make the rules, own the land, disapprove of working-class ways.  The Proletariat are the rest of us.  It's probably funny to hear a well-paid software developer talk about myself as the Proletariat, but I still like to get in the trenches and deliver pull requests on projects.
+Back in the day of Engels and Marx, they talked a lot about the Bourgeoisie and Proletariat.  Marx invented this concept to give a name to a feeling.  The Bourgeoisie are the people that make the rules, own the land, disapprove of working-class ways.  The Proletariat are the rest of us.  Talking about the difference was enough to cause a revolution.  People wanted more power for people like them.  It's probably funny to hear a well-paid software developer talk about myself as the Proletariat, but I still like to get in the trenches and deliver pull requests on projects.
 
 <img src="http://i.imgur.com/HC5Ydn4.jpg" alt="Power to the People" height="300">
 
@@ -25,7 +25,11 @@ Over the years, the community's had a few online fights about how to test.  I do
 * Integration tests (or no)
 * Framework A vs Framework B
 
-It's kind of fun to hear someone passionately teaching how things work, and I'm not saying that the people that test differently than me are wrong.  **I just think it's more important that we learn to test and enjoy work well delivered again.**
+It's kind of fun to hear someone passionately teaching how things work, and I'm not saying that the people that test differently than me are wrong.
+
+**There is a feeling, however, that someone else owns the good ideas when it comes to testing.**  The Bourgeoisie are the testing experts and the rest of us just Proletariat commoners slinging code for a living.
+
+**I think it's important to demystify testing and enjoy work well delivered again.**
 
 At the [MWRC](http://mtnwestrubyconf.org/) last week, Ryan Davis ([@the_zenspider](https://twitter.com/the_zenspider)) built a [test framework from scratch.](http://www.zenspider.com/presentations/2016-mwrc.html)  Seeing the whole thing come together took the final scales from my eyes, and I've been testing with more and more confidence since.
 
