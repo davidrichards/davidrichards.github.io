@@ -10,7 +10,9 @@ Once upon a time, a long time ago, I was at a Ruby meetup with Andrew Shafer ([@
 
 Talking with BJ Nielsen ([@localshred](https://twitter.com/localshred)) tonight about testing, he reminded me of the same thing.  We all test all the time, just we feel like it's some kind of elite thing that we aspire to.
 
-Back in the day of Engels and Marx, they talked a lot about the Bourgeoisie and Proletariat.  Marx invented this concept to give a name to a feeling.  The Bourgeoisie are the people that make the rules, own the land, disapprove of working-class ways.  The Proletariat are the rest of us.  Talking about the difference was enough to cause a revolution.  People wanted more power for people like them.  It's probably funny to hear a well-paid software developer talk about myself as the Proletariat, but I still like to get in the trenches and deliver pull requests on projects.
+Back in the day of Engels and Marx, they talked a lot about the Bourgeoisie and Proletariat.  Marx invented this concept to give a name to a feeling.  The Bourgeoisie are the people that make the rules, own the land, disapprove of working-class ways.  The Proletariat are the rest of us.  Talking about the difference was enough to cause a revolution.  People wanted more power for people like them.
+
+It's probably funny to hear a well-paid software developer talk about myself as the Proletariat, but I still like to get in the trenches and deliver pull requests on projects.
 
 <img src="http://i.imgur.com/ps99Oqp.png" alt="Power to the People" height="300">
 
