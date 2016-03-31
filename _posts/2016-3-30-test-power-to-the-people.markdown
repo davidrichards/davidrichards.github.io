@@ -52,7 +52,9 @@ What this says is when I call products on the piece of code I'm calling, it will
 
     Product.is_accruing.is_active
 
-Some people argue that this is kind of hard to understand.  Or, they might want to break that up differently.  They may be right.  The point is I'm testing the plumbing of the method.  If that changes or needs to change, my test will fail, and I know what to do next.  I'm testing that one piece of code relies on another piece of code consistently.  In recent months, we've asserted over 2,500 things on a project this way and missed two things.  That is, two things made it to production that didn't do what we thought we were supposed to be doing.  This approach may not be the end all, but I can live with those odds.
+Some people argue that this is kind of hard to understand.  Or, they might want to break that up differently.  They may be right.  The point is I'm testing the plumbing of the method.  If that changes or needs to change, my test will fail, and I know what to do next.
+
+In recent months, we've asserted over 2,500 things on a project this way and missed two things.  That is, two things made it to production that didn't do what we thought we were supposed to be doing.  This approach may not be the end all, but I can live with those odds.
 
 The whole point is that we should bring testing back to the people that write code.  We should be comfortable.  **Almost my whole testing philosophy can be demonstrated with one test.  There's no other secret sauce that I'm dying to show you.**
 
