@@ -12,7 +12,7 @@ Talking with BJ Nielsen ([@localshred](https://twitter.com/localshred)) tonight 
 
 Back in the day of Engels and Marx, they talked a lot about the Bourgeoisie and Proletariat.  Marx invented this concept to give a name to a feeling.  The Bourgeoisie are the people that make the rules, own the land, disapprove of working-class ways.  The Proletariat are the rest of us.  Talking about the difference was enough to cause a revolution.  People wanted more power for people like them.  It's probably funny to hear a well-paid software developer talk about myself as the Proletariat, but I still like to get in the trenches and deliver pull requests on projects.
 
-<img src="http://i.imgur.com/HC5Ydn4.jpg" alt="Power to the People" height="300">
+<img src="http://i.imgur.com/ps99Oqp.png" alt="Power to the People" height="300">
 
 All of us, with zero or more days on the job figure out how to ship a job well done.  Some of us write automated tests and some of us like writing those tests.  But all of us test.
 
