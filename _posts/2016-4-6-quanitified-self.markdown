@@ -51,7 +51,7 @@ Finally, there's a measure of how important it is to get something right.  If I'
 
 All of these numbers are meant to be generic and rough.  If I spend a month on a critical system using a new-to-me technology, that's a whole lot more work than if I were to put a friend's home page together in exchange for lunch.  The way I combine these is to just multiply the numbers out and write them in a notebook.
 
-<img src="http://i.imgur.com/ADphcxT.jpg" height="300px">
+<img src="http://i.imgur.com/ADphcxT.jpg" height="200px">
 
 If you want, I've also had a good experience with [Ask me Everything](http://www.askmeevery.com/]).  It's a simple way to quantify life.
 
@@ -61,7 +61,7 @@ I'm impatient.  Instead of counting everything from this point forward, I compar
 
 I use the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) for understanding my skill level.  The levels stretch from a Novice, through Advanced Beginner, Competent, Proficient to Expert.  They are roughly on a base-10 logarithmic scale as well.  That is, it takes about 10x more effort to start changing a basic recipe into something that works for my own needs.  It's about another 10x effort to really see the big picture and 10x effort to work in real proficiency.
 
-<img src="http://i.imgur.com/33CCuMc.png" height="300px"><img src="http://i.imgur.com/iJjpwLo.png" height="300px">
+<img src="http://i.imgur.com/33CCuMc.png" height="200px"><img src="http://i.imgur.com/iJjpwLo.png" height="200px">
 
 
 # Where Do I Go From Here?
