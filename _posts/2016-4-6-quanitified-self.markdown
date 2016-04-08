@@ -6,9 +6,9 @@ date:   2016-4-6-18:36:00
 categories: development
 ---
 
-As a software developer, I am at a good place.  I've been at this for about 20 years and I have enough mental capacity to produce complicated and meaningful systems.  I've learned a lot about many things generally and I am proficient or expert in the skills I use day to day.  **The challenge that nags at me is that I don't want to waste this opportunity.**
+As a software developer, I am at a good place.  I've been at this for about 20 years and I have enough mental capacity to produce complicated and meaningful systems.  I've learned a lot about many things generally and I am proficient or expert in the skills I use day to day.  The challenge that nags at me is that I don't want to waste this opportunity.
 
-The question I'm asking is how much am I producing and can I increase it?  This is a difficult question and these are my notes about how I'm thinking about it.
+**The question I'm asking is how much am I producing and can I increase it?**  This is a difficult question and these are my notes about how I'm thinking about it.
 
 > Programmer (noun): An organism that converts caffeine or alcohol into code.
 >
@@ -32,11 +32,15 @@ Because technologies replace each other, there's usually a lot of shared underst
 
 ### Time
 
+**What did I actually do?**
+
 How do I compare a blog article to a pull request?  I don't try to quantify their economic value, but I do try to guess about how many real hours I was able to dedicate on things.  If I put in 6 hours development time, but I also checked email, social media and some funny pictures during those 6 hours, then maybe I count it for 2.  The bottom-line question is how much intellectual throughput am I delivering during my most-productive years of my career.
+
+I've started using [RescueTime](https://www.rescuetime.com) to see how well I'm actually using my time when I'm "working." I'm not sure if this is a great way to move forward or not (yet).
 
 ### Criticality
 
-Finally, there's a measure of how important it is to get something write.  If I'm writing a blog article like this, there really isn't a wrong answer here.  I'm sharing something that's solving a problem for me and may be helpful to you, but you may disagree and that's OK too.  If I'm writing a blog article that's quantifiable, it's a little more important to get it just right.  [Dave Thomas](https://pragdave.me/) told me at Lone Star Ruby Conference that he wrote unit tests for all the code he put in the [Pickaxe Book](https://pragprog.com/book/ruby/programming-ruby).  Each release of Ruby can be tested against the code in the book and then he knows what he needs to update to keep his book accurate.  I use the same logarithmic scale for these designations:
+Finally, there's a measure of how important it is to get something right.  If I'm writing a blog article like this, there really isn't a wrong answer here.  I'm sharing something that's solving a problem for me and may be helpful to you, but you may disagree and that's OK too.  If I'm writing a blog article that's quantifiable, it's a little more important to get it just right.  [Dave Thomas](https://pragdave.me/) told me at Lone Star Ruby Conference that he wrote unit tests for all the code he put in the [Pickaxe Book](https://pragprog.com/book/ruby/programming-ruby).  Each release of Ruby can be tested against the code in the book and then he knows what he needs to update to keep his book accurate.  I use the same logarithmic scale for these designations:
 
 * Trivial (1): It doesn't matter if I'm right, or it's not provable either way
 * Good Effort (2): It would be embarrassing if someone found a mistake in my work
