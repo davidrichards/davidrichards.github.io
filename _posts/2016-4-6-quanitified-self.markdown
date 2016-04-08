@@ -6,34 +6,35 @@ date:   2016-4-6-18:36:00
 categories: development
 ---
 
-As a software developer, I am at a good place.  I've been at this for about 20 years and I have enough mental capacity to produce complicated and meaningful systems.  I've learned a lot about many things generally and the skills I am proficient or expert in the skills I use day to day.  The challenge that nags me is that I don't want to waste this opportunity.
+As a software developer, I am at a good place.  I've been at this for about 20 years and I have enough mental capacity to produce complicated and meaningful systems.  I've learned a lot about many things generally and I am proficient or expert in the skills I use day to day.  **The challenge that nags at me is that I don't want to waste this opportunity.**
 
 The question I'm asking is how much am I producing and can I increase it?  This is a difficult question and these are my notes about how I'm thinking about it.
 
 > Programmer (noun): An organism that converts caffeine or alcohol into code.
+>
 > [Standard Definition](http://uncyclopedia.wikia.com/wiki/Programmer)
 
 I generally produce code, as well as documentation, data analysis, training and a few other things that are economically valuable.  As I think about the effort it takes to work on each technology, I think I've come up with a few factors that can give me a reasonable sense of what I'm producing.
 
-## Complexity
+### Complexity
 
 On a log10 scale, about how many features are available to me?  A gist with a few methods in it is about a 1.  It has at least one useful feature, but not quite 10.  Some libraries may be at about a 2, more than 10 features but less than 100.  Rails is about a 5.  All of the web technologies, testing, ORM features, deployment and related features add up to more than 1,000 items but fewer than 100,000.
 
-## Similarity
+### Similarity
 
 Because technologies replace each other, there's usually a lot of shared understanding that doesn't have to be re-learned.  Sinatra and any other Rack-compliant Ruby microframework would probably have about an 80% overlap on features.  So would a lot of the CSS frameworks as well as the JavaScript frameworks.  R and data analysis with Python have about a 50% overlap.  Python and Spark data analysis only about 20%.  Those are my magic numbers: 80%, 50% and 20%.
 
-## Maturity
+### Maturity
 
 Another question is how well I need to develop my skills in an area.  I use the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) for understanding my skill level.  The levels stretch from a Novice, through Advanced Beginner, Competent, Proficient to Expert.  They are roughly on a base-10 logarithmic scale as well.  That is, it takes about 10x more effort to start changing a basic recipe into something that works for my own needs.  It's about another 10x effort to really see the big picture and 10x effort to work in real proficiency.
 
 <img src="http://i.imgur.com/33CCuMc.png"><img src="http://i.imgur.com/iJjpwLo.png">
 
-## Time
+### Time
 
 How do I compare a blog article to a pull request?  I don't try to quantify their economic value, but I do try to guess about how many real hours I was able to dedicate on things.  If I put in 6 hours development time, but I also checked email, social media and some funny pictures during those 6 hours, then maybe I count it for 2.  The bottom-line question is how much intellectual throughput am I delivering during my most-productive years of my career.
 
-## Criticality
+### Criticality
 
 Finally, there's a measure of how important it is to get something write.  If I'm writing a blog article like this, there really isn't a wrong answer here.  I'm sharing something that's solving a problem for me and may be helpful to you, but you may disagree and that's OK too.  If I'm writing a blog article that's quantifiable, it's a little more important to get it just right.  [Dave Thomas](https://pragdave.me/) told me at Lone Star Ruby Conference that he wrote unit tests for all the code he put in the [Pickaxe Book](https://pragprog.com/book/ruby/programming-ruby).  Each release of Ruby can be tested against the code in the book and then he knows what he needs to update to keep his book accurate.  I use the same logarithmic scale for these designations:
 
