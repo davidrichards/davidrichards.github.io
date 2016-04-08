@@ -14,21 +14,21 @@ The question I'm asking is how much am I producing and can I increase it?  This 
 >
 > [Standard Definition](http://uncyclopedia.wikia.com/wiki/Programmer)
 
+# What Good Am I?
+
 I generally produce code, as well as documentation, data analysis, training and a few other things that are economically valuable.  As I think about the effort it takes to work on each technology, I think I've come up with a few factors that can give me a reasonable sense of what I'm producing.
 
 ### Complexity
+
+**Whatever I'm using or writing, how complex is it?**
 
 On a log10 scale, about how many features are available to me?  A gist with a few methods in it is about a 1.  It has at least one useful feature, but not quite 10.  Some libraries may be at about a 2, more than 10 features but less than 100.  Rails is about a 5.  All of the web technologies, testing, ORM features, deployment and related features add up to more than 1,000 items but fewer than 100,000.
 
 ### Similarity
 
+**How familiar is this technology to me?**
+
 Because technologies replace each other, there's usually a lot of shared understanding that doesn't have to be re-learned.  Sinatra and any other Rack-compliant Ruby microframework would probably have about an 80% overlap on features.  So would a lot of the CSS frameworks as well as the JavaScript frameworks.  R and data analysis with Python have about a 50% overlap.  Python and Spark data analysis only about 20%.  Those are my magic numbers: 80%, 50% and 20%.
-
-### Maturity
-
-Another question is how well I need to develop my skills in an area.  I use the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) for understanding my skill level.  The levels stretch from a Novice, through Advanced Beginner, Competent, Proficient to Expert.  They are roughly on a base-10 logarithmic scale as well.  That is, it takes about 10x more effort to start changing a basic recipe into something that works for my own needs.  It's about another 10x effort to really see the big picture and 10x effort to work in real proficiency.
-
-<img src="http://i.imgur.com/33CCuMc.png"><img src="http://i.imgur.com/iJjpwLo.png">
 
 ### Time
 
@@ -49,7 +49,16 @@ All of these numbers are meant to be generic and rough.  If I spend a month on a
 
 If you want, I've also had a good experience with [Ask me Everythign](http://www.askmeevery.com/]).  It's a simple way to quantify life.
 
-# Moving Forward
+## Guesstimating a Baseline
+
+I'm impatient.  Instead of counting everything from this point forward, I compare past efforts.  **How well did I develop my skills?**
+
+I use the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) for understanding my skill level.  The levels stretch from a Novice, through Advanced Beginner, Competent, Proficient to Expert.  They are roughly on a base-10 logarithmic scale as well.  That is, it takes about 10x more effort to start changing a basic recipe into something that works for my own needs.  It's about another 10x effort to really see the big picture and 10x effort to work in real proficiency.
+
+<img src="http://i.imgur.com/33CCuMc.png"><img src="http://i.imgur.com/iJjpwLo.png">
+
+
+# Where Do I Go From Here?
 
 So, those are my thoughts on how to get a baseline.  It's a complicated and subjective input, but at least it's an input.
 
