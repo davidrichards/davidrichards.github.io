@@ -53,7 +53,7 @@ All of these numbers are meant to be generic and rough.  If I spend a month on a
 
 <img src="http://i.imgur.com/ADphcxT.jpg" height="300px">
 
-If you want, I've also had a good experience with [Ask me Everythign](http://www.askmeevery.com/]).  It's a simple way to quantify life.
+If you want, I've also had a good experience with [Ask me Everything](http://www.askmeevery.com/]).  It's a simple way to quantify life.
 
 ## Guesstimating a Baseline
 
