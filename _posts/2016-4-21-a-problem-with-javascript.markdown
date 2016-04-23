@@ -8,7 +8,7 @@ categories: development
 
 Let me be clear.  I am not about to rant about JavaScript, the community, developers, or anything else.  I'm just going to ask a few questions to figure out how I can be more productive with it.
 
-What is wrong with JavaScript?
+**What is wrong with JavaScript?**
 
 One thing I mean by that is, "why isn't it boring yet?"  It's been around in some form for over 20 years.  That usually means a technology kind of slows down and loses its exuberant changes.
 
