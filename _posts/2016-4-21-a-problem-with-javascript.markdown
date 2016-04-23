@@ -30,7 +30,7 @@ It's not just dependency management that we're battling, but there are many comp
 
 Our build tools have also embraced the same kind of [Wild West discipline](http://walkercoderanger.com/blog/2015/06/state-of-js-build-tools-2015/) that most of the rest of the tools are experiencing.
 
-In a way, this is all great news.  A lot of very smart and dedicated people are applying themselves to solving real problems in their applications and sharing that with the community.
+**In a way, this is all great news.  A lot of very smart and dedicated people are applying themselves to solving real problems in their applications and sharing that with the community.**
 
 It also means that we very quickly run out of mental capacity to really embrace all of it.  We each pick the bits we understand or like and remain a fractured community.
 
