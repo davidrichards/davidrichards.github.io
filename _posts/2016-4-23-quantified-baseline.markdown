@@ -26,15 +26,17 @@ Even as it is, though, it's starting to show me a baseline of about where I am:
 
 <img src="http://i.imgur.com/bLq1vZv.png" width="400" />
 
-Here's the same idea, but with a 9.6 output over 12 hours (115.2) as the maximum output in the graph:
+There might be an uptick in how I'm performing, but there really isn't much data here yet.  I could be dealing with cycles or short-term pushes on projects or refinements on how I estimate my daily production.  In a few months I'll have a real idea of what I'm up to and whether it's working out for me.  To put the problem in context, here is the same graph with a 9.6 output over 12 hours (115.2) as the maximum output in the graph:
 
 <img src="http://i.imgur.com/xyEzhv3.png" width="500" />
 
-If I project my recent performance, I see that something is going to change soon:
+It shows that I may be doing better, but I'm less than half of what I think I can do on a long-term basis.  If I project my recent performance, I see that something is going to have to change soon:
 
 <img src="http://i.imgur.com/atXse1w.png" width="600" />
 
-I suspect that my actual performance will asymptotically reach 9.6 x some optimal work day.  I'm excited to learn more about what that may be.  As I get closer to that idea of performance, it will be time to take a harder look at how complex the systems really are, how well I'm actually delivering working solutions and better questions to keep improving.
+That is, I won't be able to sustain sharp uptakes in my mental capacity indefinitely.  I suspect that my actual performance has been flatter than it appears and is more cyclical with sleep patterns.  Also, I'm in the middle of taking on quite a few systems that are mostly new to me.  I may not have that benefit a lot of the time, though I think I'd like to always challenge myself.
+
+My guess is these numbers will asymptotically reach 9.6 x some optimal work day.  I'm excited to learn more about what that may be.  As I get closer to that idea of performance, it will be time to take a harder look at how complex the systems really are, how well I'm actually delivering working solutions and better questions to keep improving.
 
 ## Now that I'm measuring things, what's actually different?
 
