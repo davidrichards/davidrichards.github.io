@@ -12,16 +12,9 @@ What is wrong with JavaScript?
 
 One thing I mean by that is, "why isn't it boring yet?"  It's been around in some form for over 20 years.  That usually means a technology kind of slows down and loses its exuberant changes.
 
-Right now, JavaScript is the [third-most in demand language](http://www.codingdojo.com/blog/9-most-in-demand-programming-languages-of-2016/).
+Right now, JavaScript is the [third-most in demand language](http://www.codingdojo.com/blog/9-most-in-demand-programming-languages-of-2016/).  It's in demand.  It's running on billions of devices.  It's old.  It's not tired.  And it's not getting replaced, though many have tried.  Think Dart, VBScript, JScript (IE 3), Java Applets and many more.  Why isn't it tired?  Why can't it be replaced?
 
-
-
-
-
-
-as long as I've been coding professionally.  Why isn't it old and tired like I can sometimes be?
-
-I think JavaScript has won the web programming competition.  That is, it's on billions of devices.  It can't really be replaced.  Dart, VBScript, JScript (IE 3), Java Applets and probably other forgotten languages have failed to take the prominence of JavaScript.
+**Maybe because a lot of people are winning with JavaScript.**
 
 However, "winning" means a lot of people are trying to "fix" JavaScript.  CoffeeScript, TypeScript, ClojureScript and Roy are all adding to the mix of ways to write JavaScript.  In case you think I'm hyperbolic when I say everyone is trying to fix JavaScript, there are 327 languages on [this list](https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js) that compile to JavaScript in some way.
 
@@ -63,4 +56,4 @@ So, that's the context of a problem.  JavaScript is what it is.  It affects our 
 
 **With all things software, the winning strategy ships working systems.**
 
-The solution for me to stop worrying about things I can't fix is to put code in an editor and see what I can do.
+The solution for me to stop worrying about things I can't fix is to put code in an editor and see what I can do.  More to come as I work on solutions I can live (thrive?) with.
