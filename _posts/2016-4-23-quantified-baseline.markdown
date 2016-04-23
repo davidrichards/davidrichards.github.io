@@ -6,10 +6,10 @@ date:   2016-4-23-11:14:00
 categories: development
 ---
 
-I recently wrote about my beginning efforts with a quantified self.  I want to measure and improve my ability to build software systems.  The scale I'm using to measure that is doing fairly well:
+I [recently wrote](http://davidrichards.github.io/development/2016/04/06/quanitified-self.html) about my beginning efforts with a quantified self experiment.  I want to measure and improve my ability to build software systems.  The scale I'm using to measure that is doing fairly well:
 
 * Complexity: rounded log10 scale of the number of moving parts in a system I'm working on (usually 2 or 3)
-* Similarity: estimate of how of the work is new to me ([.2, .5, .8])
+* Similarity: estimate of how much of the work is new to me ([.2, .5, .8])
 * Criticality: how do I see the system? (1=trivial, 2=good effort, 3=professional, 4=critical)
 * Time: how many hours was this activity?
 
@@ -18,20 +18,21 @@ There are a few things I've notice about this scale:
 * There's a natural goal of about 9.6 / hour (work on new problems that are critical and complex).
 * The overall number isn't long-term maintainable if I'm getting high numbers through long hours.
 * The course grained input is useful at this stage, I'm not wasting time getting picky with myself.
+* Criticality and Complexity are roughly balanced. This leads to natural tradeoffs and choices while I'm trying to improve my overall output.
 
 That means I may convert my logs to use the average hourly output.  That will probably help me cut back on short-term abuse of my system.  Other things I could do is count how many caffeinated drinks I consume a day or how many hours of sleep I had.  Lots to count, I'm having fun with it.
 
 Even as it is, though, it's starting to show me a baseline of about where I am:
 
-<img src="http://i.imgur.com/bLq1vZv.png" width="100" />
+<img src="http://i.imgur.com/bLq1vZv.png" width="400" />
 
 Here's the same idea, but with a 9.6 output over 12 hours (115.2) as the maximum output in the graph:
 
-<img src="http://i.imgur.com/xyEzhv3.png" width="200" />
+<img src="http://i.imgur.com/xyEzhv3.png" width="500" />
 
 If I project my recent performance, I see that something is going to change soon:
 
-<img src="http://i.imgur.com/atXse1w.png" width="300" />
+<img src="http://i.imgur.com/atXse1w.png" width="600" />
 
 I suspect that my actual performance will asymptotically reach 9.6 x some optimal work day.  I'm excited to learn more about what that may be.  As I get closer to that idea of performance, it will be time to take a harder look at how complex the systems really are, how well I'm actually delivering working solutions and better questions to keep improving.
 
