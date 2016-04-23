@@ -8,10 +8,10 @@ categories: development
 
 I [recently wrote](http://davidrichards.github.io/development/2016/04/06/quanitified-self.html) about my beginning efforts with a quantified self experiment.  I want to measure and improve my ability to build software systems.  The scale I'm using to measure that is doing fairly well:
 
-* Complexity: rounded log10 scale of the number of moving parts in a system I'm working on (usually 2 or 3)
-* Similarity: estimate of how much of the work is new to me ([.2, .5, .8])
-* Criticality: how do I see the system? (1=trivial, 2=good effort, 3=professional, 4=critical)
-* Time: how many hours was this activity?
+* **Complexity**: rounded log10 scale of the number of moving parts in a system I'm working on (usually 2 or 3)
+* **Similarity**: estimate of how much of the work is new to me ([.2, .5, .8])
+* **Criticality**: how do I see the system? (1=trivial, 2=good effort, 3=professional, 4=critical)
+* **Time**: how many hours was this activity?
 
 There are a few things I've notice about this scale:
 
@@ -28,11 +28,11 @@ Even as it is, though, it's starting to show me a baseline of about where I am:
 
 There might be an uptick in how I'm performing, but there really isn't much data here yet.  I could be dealing with cycles or short-term pushes on projects or refinements on how I estimate my daily production.  In a few months I'll have a real idea of what I'm up to and whether it's working out for me.  To put the problem in context, here is the same graph with a 9.6 output over 12 hours (115.2) as the maximum output in the graph:
 
-<img src="http://i.imgur.com/xyEzhv3.png" width="500" />
+<img src="http://i.imgur.com/xyEzhv3.png" width="400" />
 
 It shows that I may be doing better, but I'm less than half of what I think I can do on a long-term basis.  If I project my recent performance, I see that something is going to have to change soon:
 
-<img src="http://i.imgur.com/atXse1w.png" width="600" />
+<img src="http://i.imgur.com/atXse1w.png" width="400" />
 
 That is, I won't be able to sustain sharp uptakes in my mental capacity indefinitely.  I suspect that my actual performance has been flatter than it appears and is more cyclical with sleep patterns.  Also, I'm in the middle of taking on quite a few systems that are mostly new to me.  I may not have that benefit a lot of the time, though I think I'd like to always challenge myself.
 
@@ -48,7 +48,7 @@ This might have actually come from Lord Kelvin who said:
 
 > If you can not measure it, you can not improve it.
 
-So, blindly, just by writing it down, things will improve.  Probably because I care about it more.  Probably because it gamifies things for me a little (I get competitive and creative to improve my score).  Probably because it reduces some of the stress about whether I'm missing something important in my complicated life.  This metric covers about what I want to be doing with my life right now.
+So, blindly, just by writing it down, things will improve.  Probably because I care about it more.  Probably because it gamifies things for me a little (I get competitive and creative to improve my score).  Probably because it reduces some of the stress about whether I'm missing something important in my complicated life.  This metric covers about what I want to be doing with my life right now, so it's a kindness I'm giving myself.
 
 ## What about tDCS?
 
