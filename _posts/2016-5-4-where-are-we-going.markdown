@@ -52,10 +52,10 @@ Developers especially paid an incredible price to be at their desks.  For me, it
 
 We worked incredibly hard to get there.  We have incredibly critical reasons to be there.  Use that to get someone to care about where you're going, and you're a leader of software developers.
 
-<img src="http://i.imgur.com/b3SwpNR.jpg" />
-
 ### This really is an issue
 
 These economic times, until something breaks, are hyper difficult.  Salaries are growing at around 6% per year ([roughly](http://www.codingdojo.com/blog/web-developer-salaries-2016/)).  This at a time when inflation is [roughly flat](http://www.usinflationcalculator.com/inflation/current-inflation-rates/).  How can someone hold onto a team when almost anyone can cross the street to another shop for a $10,000 annual pay bump?
 
-On the other hand, believing in where we are going and having some ownership of the solution is the easiest cure.  I'm not talking about equity or options.  I'm talking about just letting people deliver worthwhile contributions and thanking them for it.  If it can be improved, just do it respectfully.  If you don't think you can be tactful or respectful, invest a couple minutes preparing for potentially team-killing conversations.
+On the other hand, believing in where we are going and having some ownership of the solution is the easiest cure.  I'm not talking about equity or options.  I'm talking about just letting people deliver worthwhile contributions and thanking them for it.
+
+<img src="http://i.imgur.com/b3SwpNR.jpg" />
