@@ -44,8 +44,6 @@ That means it's not about who's in charge.  It's not about leadership style.  It
 
 That's because when we get a job, we did it for a reason.
 
-<img src="http://i.imgur.com/eokTGbi.jpg" />
-
 Let's face it.  Developers paid an incredible price to be at their desks.  For me, it was attending lots of school, reading hundreds of books, spending near 80,000 hours of practice (I'm a workaholic, and I'm less and less proud of that as I grow older).  I had to really want to be there, and my experience isn't unique.
 
 We worked incredibly hard to get there.  We have incredibly critical reasons to be there.  Use that to get someone to care about where you're going, and you're a leader of software developers.
