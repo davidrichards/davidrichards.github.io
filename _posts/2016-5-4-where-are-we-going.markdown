@@ -14,7 +14,7 @@ As a parent, I've learned to patiently set the context with my children as we pr
 
 Thinking about it today, I realize that "Are we there yet?" is a euphemism for, "I don't want to travel with you any longer."  The journey just doesn't seem worth it at those moments.
 
-I think this is true in our business life as well.  A leader needs to sell the team on where we are going and how we'll get there.  In fact, if they haven't done this, very little else really matters.
+I think this is true in our business life as well.  **A leader needs to sell the team on where we are going and how we'll get there.  In fact, if they haven't done this, very little else really matters.**
 
 It's even worse with software developers.  We are problem solvers by craft.  Until we're sold on where we're going, we naturally treat it as an unsolved puzzle and often get carried away trying to do the leader's job for them.  It's an advanced form of [nerd snipping](https://xkcd.com/356/).
 
