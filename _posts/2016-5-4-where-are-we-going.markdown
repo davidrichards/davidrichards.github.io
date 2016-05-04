@@ -42,9 +42,11 @@ Notice how, in my opinion, the answer is to get someone that sees where a leader
 
 That means it's not about who's in charge.  It's not about leadership style.  It's not about casual Fridays.  **It's about wanting to be part of the core purpose of a team.**  And, in my experience, wanting to be part of that purpose is a lot easier and cheaper than trying to manufacture culture.
 
-That's because when we get a job, we did it for a reason.
+That's because when we get a job, we almost always developed some real talent to be there.
 
-Let's face it.  Developers paid an incredible price to be at their desks.  For me, it was attending lots of school, reading hundreds of books, spending near 80,000 hours of practice (I'm a workaholic, and I'm less and less proud of that as I grow older).  I had to really want to be there, and my experience isn't unique.
+<img src="http://i.imgur.com/Ihgu0xe.gif" />
+
+Developers paid an incredible price to be at their desks.  For me, it was attending lots of school, reading hundreds of books, spending near 80,000 hours of practice (I'm a workaholic, and I'm less and less proud of that as I grow older).  I had to really want to be there, and my experience isn't unique.
 
 We worked incredibly hard to get there.  We have incredibly critical reasons to be there.  Use that to get someone to care about where you're going, and you're a leader of software developers.
 
