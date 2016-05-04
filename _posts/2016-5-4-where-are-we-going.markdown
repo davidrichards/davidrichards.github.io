@@ -20,7 +20,7 @@ It's even worse with software developers.  We are problem solvers by craft.  Unt
 
 <img src="https://imgs.xkcd.com/comics/nerd_sniping.png" height="400px" />
 
-So, for software developers, they need to be assured (often) that the problem isn't the organization, the product or anything else.  The problem is a particular set of prioritized issues and features.  If that's not known, the problem is figuring those out.  Software developers can reason with product owners about whether a customer will notice a feature or whether a bug is critical or minor.  It's not really a negotiation, just a little bit of information needs to be shared.
+So, for software developers, they need to be assured (**often**) that the problem isn't the organization, the product or anything else.  The problem is a particular set of prioritized issues and features.  If that's not known, the problem is figuring those out.  Software developers can reason with product owners about whether a customer will notice a feature or whether a bug is critical or minor.  It's not really a negotiation, just a little bit of information needs to be shared.
 
 This is important for productivity.  It's also important for cost management.  Engineering is usually one of the most expensive parts of a project, some of the riskiest components, so getting engineers to push along is critical.
 
@@ -56,4 +56,4 @@ We worked incredibly hard to get there.  We have incredibly critical reasons to 
 
 These economic times, until something breaks, are hyper difficult.  Salaries are growing at around 6% per year ([roughly](http://www.codingdojo.com/blog/web-developer-salaries-2016/)).  This at a time when inflation is [roughly flat](http://www.usinflationcalculator.com/inflation/current-inflation-rates/).  How can someone hold onto a team when almost anyone can cross the street to another shop for a $10,000 annual pay bump?
 
-On the other hand, believing in where we are going and having some ownership of the solution is the easiest cure.  I'm not talking about equity or options.  I'm talking about just letting people deliver worthwhile contributions and thinking them for it.  If it can be improved, just do it respectfully.  If you don't think you can be tactful or respectful, invest a couple minutes preparing for potentially team-killing conversations.
+On the other hand, believing in where we are going and having some ownership of the solution is the easiest cure.  I'm not talking about equity or options.  I'm talking about just letting people deliver worthwhile contributions and thanking them for it.  If it can be improved, just do it respectfully.  If you don't think you can be tactful or respectful, invest a couple minutes preparing for potentially team-killing conversations.
