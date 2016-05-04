@@ -52,7 +52,7 @@ At this point, my mind goes to a series of facts.  This man has never delivered 
 
 We finished the "conversation" and he ended up saying things like, "at least we didn't end up in a shouting match" and "I'll get the others to see it my way."  It was a point of pride for him that he could dominate this particular piece of code.
 
-Was he right?  Absolutely not.  Not because there isn't a better way to write it.  Not because maybe we could have used other patterns, other abstractions.  We had the code we had because of the environment and choices he made.  Also, we got to this point because that is a way to evolve an idea.  Nobody that actually delivers systems goes online to try and find people that agree with them.  They open their editor and deliver systems and improve on them when they can.
+Was he right?  Absolutely not.  Not because there isn't a better way to write it.  Not because maybe we could have used other patterns, other abstractions.  We had the code we had because of the environment and choices he made.  Also, we got to this point because that is a way to evolve an idea.  Nobody that actually delivers systems behaves in this way.  At least, nobody that's trying to lead by pointing the way and helping people make their contribution.
 
 **Did we have a clear view of where we were going?  No.  Did I know where I could help?  Apparently not.**
 
