@@ -24,11 +24,9 @@ So, for software developers, they need to be assured (often) that the problem is
 
 This is important for productivity.  It's also important for cost management.  Engineering is usually one of the most expensive parts of a project, some of the riskiest components, so getting engineers to push along is critical.
 
-## So, why is it so hard for most companies to figure this out?
+### So, why is it so hard for most companies to figure this out?
 
 It's rare, in my experience, to actually get a team to work together and move in the same direction.  And, we don't live in an autocratic society.  Right now, it's usually pretty easy for a developer to leave a company and get a job at higher pay.  There just aren't enough software developers for current demand.  So, trying to control every aspect of a person's thinking and loyalty is a futile experience.  Only the insecure will stick around in the face of utter control.
-
-And, let's face it.  Developers paid an incredible price to be at their desks.  For me, it was lots of school, hundreds of books, maybe near 80,000 hours of practice (I'm a workaholic, and I'm less and less proud of that as I grow older).  I had to really want to be there, and my experience isn't unique.  Demeaning someone that fought to get to that point in time is fighting words.
 
 What I've seen work is respecting why the key players are at the table.  As in all things, [never delegate understanding](http://www.eamesoffice.com/the-work/never-delegate-understanding/).  A leader can't wield knowledge they never had.
 
@@ -36,9 +34,25 @@ A particularly loyal employee told me why he was willing to stay so long at a tr
 
 As a counter example, I once had a particularly caustic conversation with a superior at my organization.  He could scarcely cover the disdain he had in his voice for the solution I had delivered.  He openly mocked me in a room full of people, insinuating that I didn't know what I was talking about.  This man has never delivered a full working system in his life, not at the scale and quantity that I do.  He has never stuck with a project until it was finished.  He has never built a team or developed another person's talent so that they are successful.  There had been a minor bug that could be fixed in a couple lines of code, but he wanted to drag me out and make an example of me.  He had hoped to convince me of some other way of seeing a problem, and instead ensured that I would not only leave his team, but would ever remember him as a terrible example of leadership.  All for a minor bug that was fixable in 10 minutes.
 
-Even now, thinking about the experience, the story sounds fantastic.  Surely there was more going on?  Probably.  Could it have been worked out?  Why?  I didn't want to go where he was going.  I had come to the company with a particular skill set and was prepared to do whatever was in my power to ensure they succeeded.  All that was destroyed very quickly.  At the very least, I had to conclude that this relationship doesn't work in this context.
+Even now, thinking about the experience, the story sounds fantastic.  Surely there was more going on?  Probably.  Could it have been worked out?  Probably.  It may have been deserved or fair. But notice how I remember the incident.  The conversation went from discussing code to evaluating the worth of this individual.  Right or not, this leader lost a follower.  A lot of potential good was destroyed in a moment.  At the very least, I had to conclude that this relationship doesn't work in this context.
 
-## This really is an issue
+### This isn't about culture
+
+Notice how, in my opinion, the answer is to get someone that sees where a leader is going and wants to pitch in.  **It's not about creating culture.**  Despite all the hype, culture is a cheap substitute for strategy.
+
+That means it's not about who's in charge.  It's not about leadership style.  It's not about casual Fridays.  **It's about wanting to be part of the core purpose of a team.**  And, in my experience, wanting to be part of that purpose is a lot easier and cheaper than trying to manufacture culture.
+
+That's because when we get a job, we did it for a reason.
+
+<img src="http://i.imgur.com/eokTGbi.jpg" />
+
+Let's face it.  Developers paid an incredible price to be at their desks.  For me, it was attending lots of school, reading hundreds of books, spending near 80,000 hours of practice (I'm a workaholic, and I'm less and less proud of that as I grow older).  I had to really want to be there, and my experience isn't unique.
+
+We worked incredibly hard to get there.  We have incredibly critical reasons to be there.  Use that to get someone to care about where you're going, and you're a leader of software developers.
+
+<img src="http://i.imgur.com/b3SwpNR.jpg" />
+
+### This really is an issue
 
 These economic times, until something breaks, are hyper difficult.  Salaries are growing at around 6% per year ([roughly](http://www.codingdojo.com/blog/web-developer-salaries-2016/)).  This at a time when inflation is [roughly flat](http://www.usinflationcalculator.com/inflation/current-inflation-rates/).  How can someone hold onto a team when almost anyone can cross the street to another shop for a $10,000 annual pay bump?
 
