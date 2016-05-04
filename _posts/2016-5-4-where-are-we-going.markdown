@@ -46,7 +46,7 @@ Anyway, I guess this code was offensive to him.  The back story involves many eg
 
 There was a bug in my code.  It involved about 3 lines of code.  It took me about 5 minutes to find where the bug was and 2 hours to keep him from trying to blame all the other parts of the system.  He was actually acting like a first-year coder throwing a tantrum.  It was a pathetic moment in our relationship.
 
-The next day, he had built an elaborate graphic to try and show all the faults in my system.  He included parts of the system that was written way before I was there and systems that I didn't have the time to rewrite/refactor.  He chose the way to discuss this was in front of about 3 dozen people.  He chided and goaded me, everything but flat out calling me stupid in front of the company.
+The next day, he had built an elaborate graphic to try and show all the faults in my system.  He included parts of the system that was written way before I was there and systems that I didn't have the time to rewrite/refactor.  To be fair to me, he had completely gutted a very large system, thrown away about a year and a half of work and given us a week or two to re-impliment most of the back systems.  The parts he was complaining about were the parts we tried to leave in the system.  He chose the way to discuss this was in front of about 3 dozen people.  He chided and goaded me, everything but flat out calling me stupid in front of the company.
 
 At this point, my mind goes to a series of facts.  This man has never delivered a full working system in his life, not at the scale and quantity that I do.  He has never stuck with a project until it was finished.  He has never built a team or developed another person's talent so that they are successful.
 
