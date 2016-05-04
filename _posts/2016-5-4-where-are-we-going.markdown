@@ -38,7 +38,7 @@ Put another way, by recognizing the talents my friend had, they made it easy to 
 
 As a counter example, I once had a particularly caustic conversation with a superior at my organization.  The event happened after a long series of strange behaviors: people being marginalized and fired and then lies about what happened, highly productive teams being dismantled because this particular leader wasn't in control, whole projects being scraped because a few problems were still unresolved.  Morale was pretty low and about half the engineering team had already left one way or another.
 
-<img src="http://i.imgur.com/Fv6h2aM.gifv" />
+<img src="the_dictator.gif" />
 
 We had a lot of people kind of stuck and so I started showing them ways I break down a problem.  I like to start with ServiceObjects, or single-purpose classes.  The business logic is more apparent, it's easier to test, other abstractions are easy to compose once the work is broken down that way.  Most importantly, we're not lying to ourselves about what the "right way" to build a system looks like.  Does it work?  Can we improve it?  Is it worth it?  This is the foundation of a pragmatic approach to delivering systems (rather than whatever the hell this guy's been up to).  It solves the number one problem every coder has, actually coding something.
 
