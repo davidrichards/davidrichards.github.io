@@ -42,7 +42,7 @@ As a counter example, I once had a particularly caustic conversation with a supe
 
 We had a lot of people kind of stuck and so I started showing them ways I break down a problem.  I like to start with ServiceObjects, or single-purpose classes.  The business logic is more apparent, it's easier to test, other abstractions are easy to compose once the work is broken down that way.  Most importantly, we're not lying to ourselves about what the "right way" to build a system looks like.  Does it work?  Can we improve it?  Is it worth it?  This is the foundation of a pragmatic approach to delivering systems (rather than whatever the hell this guy's been up to).  It solves the number one problem every coder has, actually coding something.
 
-Anyway, I guess this code was offensive to him.  The back story involves many egregious and obvious failings of this particular person (making promises without understanding, having me work two positions because he hadn't planned, actually developing team members that were to take over the system after I was moved to another corner of the company).  It was a hornet's nest.
+Anyway, I guess this code was offensive to him.  The back story involves many egregious and obvious failings of this particular person (making promises without understanding, having me work two positions because he hadn't planned or communicated, actually developing team members that were to take over the system after I was moved to another corner of the company).  It was a hornet's nest.
 
 There was a bug in my code.  It involved about 3 lines of code.  It took me about 5 minutes to find where the bug was and 2 hours to keep him from trying to blame all the other parts of the system.  He was actually acting like a first-year coder throwing a tantrum.  It was a pathetic moment in our relationship.
 
@@ -56,17 +56,17 @@ Was he right?  Absolutely not.  Not because there isn't a better way to write it
 
 **Did we have a clear view of where we were going?  No.  Did I know where I could help?  Apparently not.**
 
-Even now, thinking about the experience, the story sounds fantastic.  Surely there was more going on?  Probably.  Could it have been worked out?  Probably.  But notice how at the end of the day, this person took from me any sense of participation, ownership or commitment to his success.
+Even now, thinking about the experience, the story sounds fantastic.  Surely there was more going on?  Probably.  Could it have been worked out?  Probably.  But notice how at the end of the day, this person took from me any sense of participation, ownership or commitment to the company's success.
 
-This was a crucial moment when something broke in me.  I had been trying to help things move along, keep everyone else optimistic and believing in the company.  At this point in time, I realized we really weren't trying to build a great product, we were trying to make a leader feel good about himself.  It was like the moment a parent starts yelling at their kids to shut up and they'll tell them when they arrive.  A lot of potential good was destroyed in that moment.  At the very least, I had to conclude that this relationship doesn't work in this context.
+This was a crucial moment when something broke in me.  I stopped caring and started reaching out to my network for my next position.  It was like the moment a parent starts yelling at their kids to shut up and they'll tell them when they arrive.  A lot of potential good was destroyed in that moment.  At the very least, I had to conclude that this relationship doesn't work in this context.
 
 ### This isn't about culture
 
 Notice how, in my opinion, the answer is to get someone that sees where a leader is going and wants to pitch in.  **It's not about creating culture.**  Despite all the hype, culture is a cheap substitute for strategy.
 
-Actually think about that for a moment.  There's a strategy/culture tradeoff.  If there's a strong strategy, people get vested and excited about their contribution.  If not, people get excited about getting along, having fun, being personally recognized.  It becomes about looking good rather than doing good.  Even in cultures of delivery, the external pressure of delivering something isn't as useful as the internal desire to produce something important.
+Actually think about that for a moment.  There's a strategy/culture trade off.  If there's a strong strategy, people get vested and excited about their contribution.  If not, people get excited about getting along, having fun, being personally recognized.  It becomes about looking good rather than doing good.  Even in cultures of delivery, the external pressure of delivering something isn't as useful as the internal desire to produce something important.
 
-That means it's not about who's in charge.  It's not about leadership style.  It's not about casual Fridays.  **It's about wanting to be part of the core purpose of a team.**  And, in my experience, wanting to be part of that purpose is a lot easier and cheaper than trying to manufacture culture.
+That means it's not about who's in charge.  It's not about leadership style.  **It's about wanting to be part of the core purpose of a team.**  And, in my experience, wanting to be part of that purpose is a lot easier and cheaper than trying to manufacture culture.
 
 That's because when we get a job, we almost always developed some real talent to be there.
 
@@ -76,10 +76,8 @@ Developers especially paid an incredible price to be at their desks.  For me, it
 
 We worked incredibly hard to get there.  We have incredibly critical reasons to be there.  Use that to get someone to care about where you're going, and you're a leader of software developers.
 
-### This really is an issue
+**This really is an issue.**
 
-These economic times, until something breaks, are hyper difficult.  Salaries are growing at around 6% per year ([roughly](http://www.codingdojo.com/blog/web-developer-salaries-2016/)).  This at a time when inflation is [roughly flat](http://www.usinflationcalculator.com/inflation/current-inflation-rates/).  How can someone hold onto a team when almost anyone can cross the street to another shop for a $10,000 annual pay bump?
-
-On the other hand, believing in where we are going and having some ownership of the solution is the easiest cure.  I'm not talking about equity or options.  I'm talking about just letting people deliver worthwhile contributions and thanking them for it.
+Believing in where we are going and having some ownership of the solution is the easiest cure.  I'm not talking about equity or options.  I'm talking about just letting people deliver worthwhile contributions and thanking them for it.
 
 <img src="http://i.imgur.com/b3SwpNR.jpg" />
