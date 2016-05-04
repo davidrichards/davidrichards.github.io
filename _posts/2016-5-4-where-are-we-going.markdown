@@ -34,7 +34,7 @@ A particularly loyal employee told me why he was willing to stay so long at a tr
 
 Put another way, by recognizing the talents my friend had, they made it easy to answer the more-important question: "how can I help?"  Outside of caring for children, humans don't often do something for someone unless they actually want it.
 
-#### An Ugly Chapter (one time it all went terribly wrong)
+### An Ugly Chapter (one time it all went terribly wrong)
 
 As a counter example, I once had a particularly caustic conversation with a superior at my organization.  The event happened after a long series of strange behaviors: people being marginalized and fired and then lies about what happened, highly productive teams being dismantled because this particular leader wasn't in control, whole projects being scraped because a few problems were still unresolved.  Morale was pretty low and about half the engineering team had already left one way or another.
 
