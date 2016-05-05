@@ -44,7 +44,7 @@ Or, if the leader has to be the hero, everyone will do the bare minimum not to g
 
 <img src="/images/the_dictator.gif" />
 
-I think that's the way I want to leave that story.  There are many useful details that someone trying to lead a team successfully would want to hear.  However, my experience tells me that people can grow and learn.  I don't want to bitch slap anyone into a standoff.  If the people involved in this particular dumpster fire ever read this, I want them to know that I don't think it has to be this way.  And my advice is that they need to point where we're going and get out of the way so people can do their jobs.
+I think that's the way I want to leave that story.  There are many useful details that someone trying to lead a team successfully would want to hear.  However, my experience tells me that people can grow and learn.  I don't want a criticism to be an excuse for someone to be stuck in their ways.  My advice is that they need to point where we're going and get out of the way so people can do their jobs.
 
 ### This isn't about culture
 
