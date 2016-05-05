@@ -36,35 +36,21 @@ Put another way, by recognizing the talents my friend had, they made it easy to 
 
 ### An Ugly Chapter (one time it all went terribly wrong)
 
-As a counter example, I once had a particularly caustic conversation with a superior at my organization.  The event happened after a long series of strange behaviors: people being marginalized and fired and then lies about what happened, highly productive teams being dismantled because this particular leader wasn't in control, whole projects being scraped because a few problems were still unresolved.  Morale was pretty low and about half the engineering team had already left one way or another.
+As a counter example, I once had a particularly challenging experience at a company.  Half of the development team had left in a matter of months.  There were grumblings that half of the remaining were preparing to leave as well.  Without dragging out all the dirty laundry, there was a common issue that kept coming up, nobody owned anything they worked on.  People were reduced from solid developers to something miserable and frustrated.  Somehow in the pressure, this leader got in the habit of starting and taking over things, then leaving everything unfinished and nobody confident they could contribute.  I heard, without exaggeration, 100 times, "it doesn't matter anyway, X will just come in and change it whenever he feels like it."  I heard this over and over again.
+
+**I've never seen a team succeed where the team members weren't allowed to win.**
+
+Or, if the leader has to be the hero, everyone will do the bare minimum not to get fired or stick out in any way.
 
 <img src="/images/the_dictator.gif" />
 
-We had a lot of people kind of stuck and so I started showing them ways I break down a problem.  I like to start with ServiceObjects, or single-purpose classes.  The business logic is more apparent, it's easier to test, other abstractions are easy to compose once the work is broken down that way.  Most importantly, we're not lying to ourselves about what the "right way" to build a system looks like.  Does it work?  Can we improve it?  Is it worth it?  This is the foundation of a pragmatic approach to delivering systems (rather than whatever the hell this guy's been up to).  It solves the number one problem every coder has, actually coding something.
-
-Anyway, I guess this code was offensive to him.  The back story involves many egregious and obvious failings of this particular person (making promises without understanding, having me work two positions because he hadn't planned or communicated, actually developing team members that were to take over the system after I was moved to another corner of the company).  It was a hornet's nest.
-
-There was a bug in my code.  It involved about 3 lines of code.  It took me about 5 minutes to find where the bug was and 2 hours to keep him from trying to blame all the other parts of the system.  He was actually acting like a first-year coder throwing a tantrum.  It was a pathetic moment in our relationship.
-
-The next day, he had built an elaborate graphic to try and show all the faults in my system.  He included parts of the system that was written way before I was there and systems that I didn't have the time to rewrite/refactor.  To be fair to me, he had completely gutted a very large system, thrown away about a year and a half of work and given us a week or two to re-impliment most of the back systems.  The parts he was complaining about were the parts we tried to leave in the system.  He chose the way to discuss this was in front of about 3 dozen people.  He chided and goaded me, everything but flat out calling me stupid in front of the company.
-
-At this point, my mind goes to a series of facts.  This man has never delivered a full working system in his life, not at the scale and quantity that I do.  He has never stuck with a project until it was finished.  He has never built a team or developed another person's talent so that they are successful.
-
-We finished the "conversation" and he ended up saying things like, "at least we didn't end up in a shouting match" and "I'll get the others to see it my way."  It was a point of pride for him that he could dominate this particular piece of code.
-
-Was he right?  Absolutely not.  Not because there isn't a better way to write it.  Not because maybe we could have used other patterns, other abstractions.  We had the code we had because of the environment and choices he made.  Also, we got to this point because that is a way to evolve an idea.  Nobody that actually delivers systems behaves in this way.  At least, nobody that's trying to lead by pointing the way and helping people make their contribution.
-
-**Did we have a clear view of where we were going?  No.  Did I know where I could help?  Apparently not.**
-
-Even now, thinking about the experience, the story sounds fantastic.  Surely there was more going on?  Probably.  Could it have been worked out?  Probably.  But notice how at the end of the day, this person took from me any sense of participation, ownership or commitment to the company's success.
-
-This was a crucial moment when something broke in me.  I stopped caring and started reaching out to my network for my next position.  It was like the moment a parent starts yelling at their kids to shut up and they'll tell them when they arrive.  A lot of potential good was destroyed in that moment.  At the very least, I had to conclude that this relationship doesn't work in this context.
+I think that's the way I want to leave that story.  There are many useful details that someone trying to lead a team successfully would want to hear.  However, my experience tells me that people can grow and learn.  I don't want to bitch slap anyone into a standoff.  If the people involved in this particular dumpster fire ever read this, I want them to know that I don't think it has to be this way.  And my advice is that they need to point where we're going and get out of the way so people can do their jobs.
 
 ### This isn't about culture
 
 Notice how, in my opinion, the answer is to get someone that sees where a leader is going and wants to pitch in.  **It's not about creating culture.**  Despite all the hype, culture is a cheap substitute for strategy.
 
-Actually think about that for a moment.  There's a strategy/culture trade off.  If there's a strong strategy, people get vested and excited about their contribution.  If not, people get excited about getting along, having fun, being personally recognized.  It becomes about looking good rather than doing good.  Even in cultures of delivery, the external pressure of delivering something isn't as useful as the internal desire to produce something important.
+Actually think about that for a moment.  **There's a strategy/culture trade off.**  If there's a strong strategy, people get vested and excited about their contribution.  If not, people get excited about getting along, having fun, being personally recognized.  It becomes about looking good rather than doing good.  Even in cultures of delivery, the external pressure of delivering something isn't as useful as the internal desire to produce something important.
 
 That means it's not about who's in charge.  It's not about leadership style.  **It's about wanting to be part of the core purpose of a team.**  And, in my experience, wanting to be part of that purpose is a lot easier and cheaper than trying to manufacture culture.
 
