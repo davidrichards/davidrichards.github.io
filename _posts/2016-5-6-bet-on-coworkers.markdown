@@ -36,6 +36,6 @@ Fortunately for software developers, we rarely have these.  If we have a deep te
 
 Or, here's a funny anecdote.  Once upon a time I was called out of a movie with my girlfriend to be chewed out by the owner of the company that employed me.  He was raging that I had brought his system down and that customers were being affected.  I rushed to the nearest Internet connection to find out what I had done (this sounds quaint today--who doesn't have constant Internet access all the time?).  It turns out I had done nothing wrong.  His son, a manager at the company with commit access had pushed out an untested bit of code to production and left for the evening without even checking that the deploy finished.  That person soon left the company and made profane amounts of money in management and sales (over $500K a year) but couldn't be trusted with the most-junior software development tasks.
 
-<img src="/Jackie-Chan-Meme-Template.jpg">
+<img src="/images/Jackie-Chan-Meme-Template.jpg">
 
 This still leaves me with figuring out what kind of coder I can be on a particular project.  It still means coders often hop around to find their happy place.  It still means that we're going to be sometimes short on patience with each other. But this is a fun and challenging way to engage in life and I'm glad I'm doing it.
