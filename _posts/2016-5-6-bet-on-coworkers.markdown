@@ -14,7 +14,7 @@ Turning that lens on software developers, it's kind of an interesting way to beg
 
 There are, for example, people who have developed a critical mind.  They challenge assumptions and ask people to think deeper.  They can be difficult to work with because they put me on my toes.  They can also be insightful and committed to producing the best possible solutions.  People like this are developing a deep reservoir of knowledge and technology hacks.  They're the type that will find the intermittent bugs nobody else can find.  They're the type that will steer a team away from the hype and build something that could last.  They might not be the best team lead, but sometimes the best technical lead.
 
-<img src="https://i.ytimg.com/vi/nuC3Vd7YBDk/hqdefault.jpg">
+<img src="/images/thinker.png">
 
 There are the good implementers.  They understand the best technologies and can apply them quickly on a project.  They are work horses and resemble the mythical 10x programmer more than anything I've met in my career.
 
