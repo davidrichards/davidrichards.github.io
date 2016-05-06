@@ -30,7 +30,7 @@ It's rare, in my experience, to actually get a team to work together and move in
 
 What I've seen work is respecting why the key players are at the table.  As in all things, [never delegate understanding](http://www.eamesoffice.com/the-work/never-delegate-understanding/).  A leader can't wield knowledge they never had.  Figure out what's actually making people tick and help them turn that into something valuable for the company.
 
-A particularly loyal employee told me why he was willing to stay so long at a troubled company.  "The CEO never failed to appreciate my particular skill set.  After that, of course I'd do anything he asked."  The leader knew why this person was at the company, what brought him fulfillment and clarity.  The CEO honored that, and this talented human moved mountains for him.
+A [particularly loyal employee](http://rexgriffiths.com/) told me why he was willing to stay so long at a troubled company.  "The CEO never failed to appreciate my particular skill set.  After that, of course I'd do anything he asked."  The leader knew why this person was at the company, what brought him fulfillment and clarity.  The CEO honored that, and this talented human moved mountains for him.
 
 Put another way, by recognizing the talents my friend had, they made it easy to answer the more-important question: "how can I help?"  Outside of caring for children, humans don't often do something for someone unless they actually want it.
 
