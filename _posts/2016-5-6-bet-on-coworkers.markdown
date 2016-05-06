@@ -40,4 +40,4 @@ Or, here's a funny anecdote.  Once upon a time I was called out of a movie with 
 
 <img src="/images/Jackie-Chan-Meme-Template.jpg">
 
-This still leaves me with figuring out what kind of coder I can be on a particular project.  It still means coders often hop around to find their happy place.  It still means that we're going to be sometimes short on patience with each other. But this is a fun and challenging way to engage in life and I'm glad I'm doing it.
+This still leaves me with figuring out what kind of coder I can be on a particular project.  It still means coders often hop around to find their happy place.  It still means that we're going to be sometimes short on patience with each other. But, our ultimate success is really a measure of our dedication to the craft.  We're not getting ahead because we belong to the right clubs, have the right haircut, or are liked by the right people.  If I had to bet which of my colleagues will do the best, it would be the ones that keep at it.
