@@ -24,11 +24,11 @@ There are the pragmatists that ship "good enough" quickly and refactor gracefull
 
 At times we are asked to be all of these things.  When the rest of a business understands the kind of intellectual and emotional gamut we're working with, developers are given a lot more slack when things go wrong.
 
-Over their lifetimes, I might think I could predict how well they'd do.  I wouldn't think this is a very sure bet though.  Developers often find their happy place and do incredible work, whatever they're bringing to the table.  **The exercise might be more useful to see the strengths and weaknesses that apply to me the most.**
+Over their lifetimes, I might think I could predict how well others might do.  This isn't a very sure bet though, I don't think.  Developers often find their happy place and do incredible work, whatever they're bringing to the table.  **The exercise might be more useful to see the strengths and weaknesses that apply to me the most.**
 
 Beyond coder styles, there are still qualities that I think are hard for me to recognize in the drama of the day.  Kindness, optimism, punctuality, respect, openness, even honesty are things I can lose in the savage race to meet deadlines or get a system running again.
 
-Honesty is a particularly tricky one for me.  It's not that I start lying to get ahead.  It's that I don't want people to see me struggle with a problem so I hide that I'm stuck.  Or, I don't step back to think if my perspective is convenient or insightful.  I can sometimes see the worst in people and assume I know their motivations.  Or the toughest one of them all, **trying to guess when a feature will be delivered.**
+Honesty is a particularly tricky one for me.  It's not that I start lying to get ahead.  It's that I don't want people to see me struggle with a problem so I hide that I'm stuck.  Or, I don't step back to think whether my perspective is convenient or insightful.  Or the toughest one of them all, **trying to guess when a feature will be delivered.**  That's a challenge to any developer trying to be honest.
 
 In business school, we used to talk about **Career Limiting Moves**.  The idea was to try to never flub up so bad that our career as a manager and eventual executive would be permanently damaged.
 
