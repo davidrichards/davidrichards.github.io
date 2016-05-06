@@ -24,7 +24,7 @@ There are the pragmatists that ship "good enough" quickly and refactor gracefull
 
 At times we are asked to be all of these things.  When the rest of a business understands the kind of intellectual and emotional gamut we're working with, developers are given a lot more slack when things go wrong.
 
-Over their lifetimes, I might think I could long or short someone.  I wouldn't think this is a very sure bet though.  Developers often find their happy place and do incredible work, whatever they're bringing to the table.  **The exercise might be more useful to see the strengths and weaknesses that apply to me the most.**
+Over their lifetimes, I might think I could predict how well they'd do.  I wouldn't think this is a very sure bet though.  Developers often find their happy place and do incredible work, whatever they're bringing to the table.  **The exercise might be more useful to see the strengths and weaknesses that apply to me the most.**
 
 Beyond coder styles, there are still qualities that I think are hard for me to recognize in the drama of the day.  Kindness, optimism, punctuality, respect, openness, even honesty are things I can lose in the savage race to meet deadlines or get a system running again.
 
