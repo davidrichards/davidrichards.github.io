@@ -24,20 +24,28 @@ This book is covering:
 
 * The basic structure of well-crafted piece of code
 * How to treat JavaScript objects fairly
-* A Functional approach to JavaScript
+* A functional approach to JavaScript
 * Building more complex pieces of code
 
 Getting this right, and anxiously looking for a chance to apply these things gives us the kind of momentum to make things.
 
+## When it Goes Wrong
+
+As a counter example, I recently did it all wrong.  I took a Node and React project and started glomming on all the dependencies.  Everything interesting or shiny made its way into the project.  I had the most "powerful" webpack build setup.
+
+Then I tried to move my project and install the dependencies on another machine.  Fiasco.  I couldn't do it.
+
+Some dependencies had changed, or something I could no longer understand was going on.  15 hours and all the foul language in my vocabulary later, I could not make this terrible ball of mud with 858 library dependencies in it do anything but take up space on my hard drive.
+
+I told a friend these are dark times in the technology world.  I told another friend the Node world was a dumpster fire.  I told all my friends all the commiserating nonsense I could come up with.  None of that was true.  I had lost site of the simplicity of what I was doing and therefore wasn't actually accomplishing anything worthwhile.
+
 ## A Clojure Example
 
-I was fortunate enough to be sitting about 30 feet away from Tim Ewald while he gave this talk, [Clojure: Programming with Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw).  It's a well-recieved talk about the essentials of coding, applied to Clojure.
+I was fortunate enough to be sitting about 30 feet away from Tim Ewald while he gave this talk, [Clojure: Programming with Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw).  It's a well-received talk about the essentials of coding, applied to Clojure.
 
-It's a good example of the same things
+"It's all just chisels, all the way down."  Tim got laughs from this. He was talking about how fundamentally all of the wood working tools are just chisels, even drills and saws.  His favorite book on woodworking was published in the mid 1700s.  It was written at a time when people did this every day to feed their families and had no other choice.  They really knew how this stuff works.
 
-"It's all just chisels, all the way down."  Tim got laughs from this. He was talking about how fundamentally all of the tools are just chisels, even drills and saws.  His favorite book on woodworking was published in the mid 1700s.  It was written at a time when people did this every day to feed their families and had no other choice.  They really knew how this stuff works.
-
-As he talks about woodworking, his bench, hold fasts...I think I could really see myself working in a similar workshop.  I have that boyish desire to do more wood working.  That's the passion to create things that and developer needs to hold onto.
+As he talks about woodworking, his tools, his bench, hold fasts...I think I could really see myself working in a similar workshop.  I have that boyish desire to do more wood working.  **That's the passion to create things a developer needs to succeed.**
 
 Let me drive to the point Tim's making.  Why does he use hand tools?
 
@@ -47,7 +55,9 @@ Let me drive to the point Tim's making.  Why does he use hand tools?
 * Connects me to my work, my effort to results
 * Takes time and effort to learn
 
-I like his qualifier for this last part.  It takes time and effort, but not a ridiculous amount of time and not a ridiculous amount of effort.  By learning the materials, tools and environment well, we can be productive and effective building worthwhile things.
+I like his qualifier for this last part.  **It takes time and effort, but not a ridiculous amount of time and not a ridiculous amount of effort.**  By learning the materials, tools and environment well, we can be productive and effective building worthwhile things.
+
+And there's power when we slow down and focus on the fundamentals.  We actually do have more precision and control.  We actually get the thing we were after.  Unlike my recent JavaScript fiasco.
 
 ## A Machine Learning Example
 
@@ -61,7 +71,7 @@ If you want to get the fundamentals and passion for machine learning right, you 
 
 ## This isn't Typical
 
-Typically, this isn't how we learn things.  Not as coders.  We get into the thick of things and pretty soon we're tired and battle worn and maybe not better off from it all.  That's why it's worth my Sunday morning to write about this.
+Typically, this isn't how we learn things.  Not as coders.  We get into the thick of things and pretty soon we're tired and battle worn and maybe not better off from it all.
 
 Here's how the same process went yesterday with my daughter:
 
@@ -77,8 +87,8 @@ We were writing a RESTful API and I wanted her to be able to do this.  I handed 
 
 That's where she gets into drawing Rex as a dinosaur and a table and a security guard that looks like a robber showing the authentication piece.  You can see she got excited about one of my test snippets that mentioned a Fluffy Bunny Brigade.  She couldn't stop laughing and had to draw bunnies.
 
-But, at the end of the day (around 1 in the morning), she was up watching Sherlock and I was putting my work away and I walked her through it.  She watched me build APIs.  She watched me test them.  She watched me use cURL and get things back.  I then showed her my token authentication strategy and she got it.  I showed her several end points and she knew enough to ask questions and get into it.  She's also working on her first blog article about what her experience has been so far.
+But, at the end of the day (around 1 in the morning), she was up watching Sherlock and I was putting my work away and I walked her through it.  She worked with me for several hours and knew how we were building APIs.  She had watched me test them.  She had watched me use cURL and get things back.  I then showed her the new things.  I showed my token authentication strategy and she got it.  I showed her several end points and she knew enough to ask questions and get into it.
 
 She is getting the fundamentals.  She has a passion.  I didn't walk her through the thick of things.  I walked her through the important part of things.  I sincerely think I may have two budding coders living in my house right now because they are working on this from a useful angle.
 
-And this is the advice I'd give bootcamp people, whether they're just starting or trying to get into some of the development shops as they finish.  Keep a passion for working the things they taught you.  Keep building things and keep them simple.  Show that you do this stuff and look for more ways to do this stuff.  It's a little bit of a disconnect.  You had so much knowledge and practical experience jammed into a few short weeks.  Let that be the beginning of something wonderful.  Know it like skateboarding or wood working and you'll do just fine.
+And this is the advice I'd give bootcamp people, whether they're just starting or trying to get into some of the development shops as they finish.  **Keep a passion for working the things they taught you.  Keep building things and keep them simple.**  Show that you do this stuff and look for more ways to do this stuff.  It's a little bit of a disconnect.  You had so much knowledge and practical experience jammed into a few short weeks.  Let that be the beginning of something wonderful.  Know it like skateboarding or wood working and you'll do just fine.
