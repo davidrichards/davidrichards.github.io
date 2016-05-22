@@ -20,7 +20,7 @@ But does it really only take that much knowledge?
 
 At it's essence, I think it does.  We tend to over-think most things we do.  There are all the frameworks, dependencies, build environments and other skills we pick up along the way.  I see this as the things we pick up anyway when we're passionate about something.  Put another way, I was telling my son that if **he knew the fundamentals and was passionate about doing it**, he'd be a solid mid-level engineer.
 
-This book is covering:
+The book I handed him covers:
 
 * The basic structure of well-crafted piece of code
 * How to treat JavaScript objects fairly
@@ -63,7 +63,7 @@ And there's power when we slow down and focus on the fundamentals.  We actually 
 
 Another example involves machine learning.  Machine learning, statistical learning, data science have been hot for a while.  These are well-paid, well-sought-after skills.  Most tutorials, books and papers I've worked through over the last 10 years or so on the subject go deep quickly into the subject.  Many offer mathematical proofs for everything they do.  This is wonderful information, but it does little to build essential knowledge and passion in its practitioners.
 
-Running counter to this is [Jason Brownlee](http://machinelearningmastery.com/start-here/).  Jason starts with practical training.  Get something running, use the same generic approach to every problem, keep going until you get what you were looking for.
+Running counter to this is [Jason Brownlee](http://machinelearningmastery.com/start-here/).  Jason starts with practical training.  **Get something running, use the same generic approach to every problem, keep going until you get what you were looking for.**
 
 Here's his wonderful [book on deep learning](http://machinelearningmastery.com/introduction-python-deep-learning-library-keras/).  Pick up this book and within 3-4 hours you are solving actual problems with real data using incredibly sophisticated tools.  And, in my case, with a smile on my face.
 
@@ -87,8 +87,8 @@ We were writing a RESTful API and I wanted her to be able to do this.  I handed 
 
 That's where she gets into drawing Rex as a dinosaur and a table and a security guard that looks like a robber showing the authentication piece.  You can see she got excited about one of my test snippets that mentioned a Fluffy Bunny Brigade.  She couldn't stop laughing and had to draw bunnies.
 
-But, at the end of the day (around 1 in the morning), she was up watching Sherlock and I was putting my work away and I walked her through it.  She worked with me for several hours and knew how we were building APIs.  She had watched me test them.  She had watched me use cURL and get things back.  I then showed her the new things.  I showed my token authentication strategy and she got it.  I showed her several end points and she knew enough to ask questions and get into it.
+But, at the end of the day (around 1 in the morning), she was up watching Sherlock and I was putting my work away and I walked her through it.  She had already worked with me for several hours that day.  She knew how we were building APIs.  She had watched me test them with an automated tool.  She had watched me use cURL and get things back manually.  I then showed her the new things.  I showed my token authentication strategy and she got it.  I showed her several end points and she knew enough to ask questions and get into it.
 
 She is getting the fundamentals.  She has a passion.  I didn't walk her through the thick of things.  I walked her through the important part of things.  I sincerely think I may have two budding coders living in my house right now because they are working on this from a useful angle.
 
-And this is the advice I'd give bootcamp people, whether they're just starting or trying to get into some of the development shops as they finish.  **Keep a passion for working the things they taught you.  Keep building things and keep them simple.**  Show that you do this stuff and look for more ways to do this stuff.  It's a little bit of a disconnect.  You had so much knowledge and practical experience jammed into a few short weeks.  Let that be the beginning of something wonderful.  Know it like skateboarding or wood working and you'll do just fine.
+And this is the advice I'd give bootcamp people, whether they're just starting or trying to get into some of the development shops as they finish.  **Keep a passion for working the things they taught you.  Keep building things and keep them simple.**  Show that you do this stuff and look for more ways to do this stuff.  It's a little bit of a disconnect: you had so much knowledge and practical experience jammed into a few short weeks and now you're out in the world trying to get a job.  Let that be the beginning of something wonderful.  Know it like skateboarding or wood working and you'll do just fine.
