@@ -6,11 +6,11 @@ date:   2016-5-22-08:41:00
 categories: development
 ---
 
-Today I handed my son a copy of [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) and told him that if learned this book he could make $80,000 a year.
+Today I handed my son a copy of [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) and told him that if he learned this book he could make $80,000 a year.
 
 <img src="http://i.imgur.com/vX2wu8e.jpg" width="400px">
 
-His eyes widened in excitement then narrowed in incredulity.  "But you gotta know it like skateboarding", I added.  I had his attention.  "You know, when you want to bring your board wherever you go and try things.  Maybe you're not too confident, but you try it anyway?"
+His eyes widened in excitement then narrowed in disbelief.  "But you gotta know it like skateboarding", I added.  I had his attention.  "You know, when you want to bring your board wherever you go and try things.  Maybe you're not too confident, but you try it anyway?"
 
 He got the picture.  And he started reading.
 
