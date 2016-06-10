@@ -43,7 +43,7 @@ With all this in mind, this is the approach I'm advocating (for starters at leas
 * Avoid Fancy Data Stores
 * Use a Data Pipeline
 
-## Build in the Small
+### Build in the Small
 
 Try building models on a small amount of data.  I will sometimes sample my data set and work on tens of thousands of records instead of millions or billions.
 
@@ -58,17 +58,17 @@ Reviewing the [Pragmatic Programmer ideas](https://blog.codinghorror.com/a-pragm
 
 Some of these are a bit of a stretch, but they boil down to the same pragmatic aesthetic that works.  I find when I'm analyzing data especially, I need to have my pragmatic hat on.  There is a lot to remember, research and review.  It doesn't work if I'm trying to take on too much or work with unwieldy data.
 
-## Apply in the Large
+### Apply in the Large
 
 With good sense about data and the insights available, I can then try and apply these things at scale.  I can serialize a model and run it inside an application.  I can wrap my work in an API and make it accessible as a separate service.  I can even translate all that work into an optimized workflow that's meant for large or even Big Data.  **There are many ways to take this work to the people at scale, once I have insights to share.**
 
-## Stay Curious
+### Stay Curious
 
 If I try a few unoptimized approaches at exploring or modeling my data, I can start to see the bigger picture.  Where are there likely relationships?  Where are there problems in the data?  What data doesn't look very normal?  How do the variables relate to one another?
 
 If I'm asking a lot of questions, I don't have time to build up an infrastructure.  That leads me to my next point.
 
-## Use Python
+### Use Python
 
 The analytic tools in Python are well tread.  I like working in Clojure, R, Ruby, and many other languages and environments.  Python is application ready.  There are tools there that are optimized for complex computation.  There are pipeline tools.  There are API-building tools.  There are great resources for gathering and transforming data.
 
@@ -76,7 +76,7 @@ Why reinvent this wheel?
 
 Once upon a time, I tried to do that.  I found an old conference talk I had given in Texas in 2008 that made me cringe.  I was talking about data analysis with Ruby.  In that talk, I admitted that Python had better tools, but I preferred to work in Ruby.  That was hubris.  That was really a bone-headed perspective.  The people that make this work make this in Python.  It's not only Python, Java and Clojure and Spark and Scala and R and many many other great opportunities for solutions are out there.  Just don't start there.  Start with Python.
 
-## Use Jupyter
+### Use Jupyter
 
 It turns out that dialog and language are really important for software development.  It's not conclusive, but [evidence suggests](http://www.fastcompany.com/3029364/this-is-your-brain-on-code-according-to-functional-mri-imaging) that we use the language portions of our brains when writing software.  This makes sense to me.  It's not really very mathematical.  Yes, we need to be logical, but we also need to have logic when we write or speak.  It's more-logical than informal language, but that's just a detail.
 
@@ -90,7 +90,7 @@ I can mix dialog with code, data visualization and LaTeX markup very easily.  I 
 
 When I talk about my data analysis, I can often see things I didn't consider the first few times around the data set.  This goes back to staying curious.
 
-## Avoid Fancy Data Stores
+### Avoid Fancy Data Stores
 
 I'm working on replacing a legacy application that wrote to MongoDB.  The application is only 5 years old.  It wasn't written in a way that scales well.  Mongo can scale, if you know what you're up against and [understand the drawbacks](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/).  Mongo was chosen because it was popular at the time, and people thought they had a problem they didn't actually have.
 
@@ -98,7 +98,7 @@ I've heard of several similar projects going on in the businesses within a half 
 
 **My advice is try and get simple things done first and get on with it.**
 
-## Use a Data Pipeline
+### Use a Data Pipeline
 
 Provenance matters.  Once you've made a point with data, the next question is almost always, "Where did the data come from?"
 
