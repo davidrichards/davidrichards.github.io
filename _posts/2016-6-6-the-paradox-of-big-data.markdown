@@ -106,7 +106,7 @@ More annoying is not being able to reproduce a data model on a second sample.  I
 
 Practically speaking, I just take notes on paper for this.  Sometimes I use my Jupyter and it works well.  If it gets rough, especially with the ETL portions of the project, I write and store scripts in a git repository.
 
-[Another analyst (Jeff Potter)](https://github.com/jpotts18) in the area likes his experience with [Airflow](http://nerds.airbnb.com/airflow/) from Airbnb.  He likes it more than [Luigi](https://github.com/spotify/luigi) from Spotify because Airflow gets more love and maintenance from their corporate sponsors.
+[Another analyst (leader extraordinaire Jeff Potter)](https://github.com/jpotts18) in the area likes his experience with [Airflow](http://nerds.airbnb.com/airflow/) from Airbnb.  He likes it more than [Luigi](https://github.com/spotify/luigi) from Spotify because Airflow gets more love and maintenance from their corporate sponsors.
 
 Whatever you choose, just remember to have a plan to explain and reproduce your results when you're finished.
 
