@@ -12,7 +12,7 @@ What are you working on?
 
 I am building some classification models for some financial transactions. I'm using [XGBoost](https://github.com/dmlc/xgboost) to prepare my models and I've been relying heavily on **[Jason Brownlee's good work](http://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)**.
 
-**Why ensemble methods?**
+### Why ensemble methods?
 
 The idea is that for many types of problems, using a wide variety of learners will help me have a generalized model.  That is, to have a model that's generally useful.
 
@@ -22,7 +22,7 @@ Exactly.  Machine learning is a [systematic study of systems and algorithms that
 
 <img src="http://i.imgur.com/h6D4zet.gif" />
 
-**Why XGBoost in particular, and not just any library?**
+### Why XGBoost in particular, and not just any library?
 
 XGBoost is a focus on distributed ensemble methods.  It was taken on by [Tianqi Chen](https://github.com/tqchen) (from his [experience at the University of Washington](http://homes.cs.washington.edu/~tqchen/)).  He did an incredible job of handling these things, which makes it more practical than a lot of other machine learning approaches. I'd say most of the data analysis tools I've seen are built for data in the small.  XGBoost is about applying these concepts for larger problems. Real data services tend to want to grow up and work well on larger data sets.
 
@@ -40,7 +40,7 @@ We're going down a road with boosting and ensemble methods. If these directions 
 
 Right, let's go.
 
-## Ensembles and Boosting
+### Ensembles and Boosting
 
 Ensemble methods are built on the premise of **hypothesis boosting**, the idea that weak hypotheses can be made better.  The weak learners handle the difficult observations.
 
@@ -56,7 +56,7 @@ But you brought this up in the context of hypothesis boosting, you've lost me al
 
 A learner is really a code form of an hypothesis, "I think that this data leads me to that conclusion."  It's a tool that we expect has some knowledge in it.  A decision tree will have an idea of what the most important feature is in my data, check it, then look for the next and the next.  It works through the tree until it's checked everything it thinks is important. Finally, it gives me an answer at it's bottom or leaf node.  For the [R2D3 example](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/), they're building a learner that tries to predict if the description of a property is in San Francisco or New York.  So that's the answer I get back.  For my transaction models, I'm looking at whether I think something is a food purchase, or a travel-related expense.  Notice these overlap, so it gets interesting.  Whatever I'm doing, I'm hoping that I have enough clues in my data to come to the right conclusions.
 
-**What's Gradient Boosting Generally?**
+### What's Gradient Boosting Generally?
 
 OK, relying on [Brownlee](http://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) some more, gradient boosting involves three elements:
 
@@ -64,7 +64,7 @@ OK, relying on [Brownlee](http://machinelearningmastery.com/gentle-introduction-
 * A weak learner makes predictions
 * Weak learners are added to minimize the loss function
 
-**So, the loss function?**
+#### So, the loss function?
 
 You choose. It must be differentiable.  Regression might use squared error and classification might use [logarithmic loss](https://www.kaggle.com/wiki/LogarithmicLoss).
 
@@ -85,9 +85,13 @@ So, using [scipy](http://www.scipy.org/), I define a small number. I make sure t
 
 Probably because I can run it myself and stay at it until I have an intuitive grasp of what is happening.
 
+#### Weak Learners
+
 Well, I could use that in any system.  **And weak learners?**
 
 I'll get more into that later, but just know that we don't want a lot from each learner.  With [AdaBoost](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html), we're talking about decision stumps, or single decision points in each "tree".  With regular boosting, we're talking about short trees.  With Stochastic Gradient Descent, we're going to really embrace ways to make a diverse and useful set of weak learners.
+
+#### Additive Learners
 
 Then we get into this **additive part of boosting**.
 
@@ -121,7 +125,7 @@ Also, let me take a moment to sing the praises of gradient descent.  This is the
 
 I found this **[incredible resource that does an intuitive treatment of gradient descent](http://sebastianruder.com/optimizing-gradient-descent/).**
 
-**What about stochastic gradient descent?**
+### What about stochastic gradient descent?
 
 Well, we add a few new things:
 
@@ -130,7 +134,7 @@ Well, we add a few new things:
 * Random sampling
 * Penalized learning
 
-**What tree constraints?**
+#### What tree constraints?
 
 We don't want particularly good trees. We don't want large trees. We don't want too many splits, too many levels, or to show it too many data.
 
@@ -144,7 +148,7 @@ I'm looking for trees that perform well when others won't. By using constrained 
 
 <img src="http://upload.wikimedia.org/wikipedia/en/7/7e/Person-tree.jpg" width="400" />
 
-**What about shrinkage?**
+#### What about shrinkage?
 
 By adding learners, I contribute to the overall ability to predict an outcome.  If I weight these new learners to be less than 1, I'm in effect slowing down the learning rate. That gives me more learners in my model, and a higher chance of getting a model that's generally useful.
 
@@ -162,7 +166,7 @@ In this context, that's what we're talking about.
 
 <img src="http://i.imgur.com/uXzx62w.jpg" />
 
-**What does random sampling add?**
+#### What does random sampling add?
 
 This reduces which data is shown to the trees. It will randomly choose rows or columns before building a tree or randomly choose columns before each split.
 
@@ -172,11 +176,13 @@ I think so. I mean, with shrinkage alone, we have no guarantee that the later tr
 
 <img src="http://i.imgur.com/VTyYNNG.png" width="400" />
 
+#### Penalized Learning
+
 We're almost there.  What about **penalized learning?**
 
 That's the introduction of different weighting functions from signal processing.  There is a [better discussion of it here](https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization).  One area where this is especially useful is with sparse feature spaces--when I am missing data points for a lot of the potential features.  The way that is done is we avoid generating high weights for parameters that are sparse.  We also stabilize the estimates that are more-highly correlated. So, we don't trust too much the weights we learn when we don't have a lot of data or when we've had a lot of learners come to the same conclusions from using similar learning techniques.
 
-**Can I just send whatever data I have to an ensemble method?**
+### Can I just send whatever data I have to an ensemble method?
 
 No, you need numerical inputs for these methods.  You'll use [one hot encoding](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.get_dummies.html), [label encoding](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html), even some [data imputation](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.html) for missing values.  The trick to all of this is to get something and keep running the model in different ways so you get an intuitive grasp of how each step of data preparation informs your model differently and reacts differently to different learners.
 
@@ -184,7 +190,7 @@ Do I really need to impute data values? I mean, this doesn't require it, does it
 
 The penalized learning will deal with some of the issues if you don't impute the missing values. That can be a stronger model if your imputed values are going to confuse the model.  Some basic data exploration will also give you an idea of the kinds of decisions your making before you impute values.  For example, if a feature is missing 60% of the time, that's a very different thing than something missing less than 1% of the time.  Also, if you use the scikit-learn [imputer](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.html), you're choosing between mean, median, and mode for imputed values. It's not too hard to imagine how these values can be misleading during the training of a model.
 
-**So where do I go from here?**
+### So where do I go from here?
 
 Well, if you just want to get your hands dirty with xgboost, I'd actually use [Brownlee's book](http://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) to get some practical examples typed out on your computer.  You'll get more support than the docs generally, and you'll get some assistance on practical things like serializing a model and reusing it later.
 
