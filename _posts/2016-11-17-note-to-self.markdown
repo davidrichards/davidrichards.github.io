@@ -2,7 +2,7 @@
 layout: post
 title:  Note to Self
 summary: Career advice I'd give my 20-year-old self.
-date:   2016-11-19-15:43:00
+date:   2016-11-17-15:43:00
 categories: development data
 ---
 
