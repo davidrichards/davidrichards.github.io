@@ -41,13 +41,7 @@ Every programming session on the planet ends in frustration or interruption.  We
 
 What does it look like before the frustration settles in?
 
-What I'm looking for is a willingness to engage. This looks like not knowing the answer but trying things anway, chasing down possibilities, refactoring anything that looks awkward as I go, reviewing how things fit together often, thinking about how things plug together.  The enemy to this kind of productivity is, "there's got to be a better way."  There always is, but until we know it, we go forward anyway.
-
-Sidenote, I think the engineers that only want to do the "best way" should be fired.  They cost more than they're worth. That doesn't mean we don't refine our ideas or propose a better one.  It means that working software is better than imagined perfection. It means that working from where we are is the only honest way to build something.  If someone wants to kill ideas and productivity so that they can be in charge, get them fired if you can.
-
-Whew, that  was an earful.
-
-Sorry. I'm just thinking about some smart people breaking into the software business that are stymied by really arrogant destructive people that want to be the boss.  Don't be a boss.  Be a leader by getting things moving in the same direction.
+What I'm looking for is a willingness to engage. This looks like not knowing the answer but trying things anway, chasing down possibilities, refactoring anything that looks awkward as I go, reviewing how things fit together often, thinking about how things plug together.  The enemy to this kind of productivity is, "there's got to be a better way."  There always is, but until we know it, we go forward anyway. Think about the smart people breaking into the software business that are stymied by really arrogant destructive people that want to be the boss.  Don't be a boss.  Be a leader by getting things moving in the same direction.
 
 All of this boils down to taking steps and refusing anything or anyone to get in your way.  **Writing systems isn't like folllowing a tutorial.** You're unsure but that's not slowing you down. Some people think they have a better idea, but that's either collaborative or not allowed near you.  You're going to wear down, but you're going to get used to working with things that are broken and leave it alone without beating yourself up.
 
