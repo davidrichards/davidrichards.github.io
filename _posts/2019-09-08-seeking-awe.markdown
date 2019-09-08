@@ -7,21 +7,21 @@ categories: raw
 ---
 ## Mother's Dreams
 
-This tiny book, Japanese Haiku
-Series Three, could have been handed
-to my mother aged eight
+  This tiny book, Japanese Haiku
+  Series Three, could have been handed
+  to my mother aged eight
 
-to keep in her waist pocket of her
-cotton print dress that she could visit
-the moonlight nightingale
+  to keep in her waist pocket of her
+  cotton print dress that she could visit
+  the moonlight nightingale
 
-between household chores and listen
-to its line of sound as it whistled
-over the millpond—
+  between household chores and listen
+  to its line of sound as it whistled
+  over the millpond—
 
-only mother never visited those
-places, never knew anything was missing
-from her dreams.
+  only mother never visited those
+  places, never knew anything was missing
+  from her dreams.
 
 ## Awe Is an Important Emotion
 
