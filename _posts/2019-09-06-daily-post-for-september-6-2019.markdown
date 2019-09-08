@@ -281,7 +281,6 @@ Sequence eight, we find Gabriella deciding to keep the inn, stay in New Zealand,
 
 Reading this annotation, it seems trite. Stories are meant to make us feel things, which I barely did in this case—useful for seeing classic story craft in cardboard cutout fashion. What I know I have a hard time with is writing the trite in the first draft, and asking harder questions of my stories in subsequent drafts. I want to rush all of my insight and ideas into the story too quickly, without giving me time to listen to the story and have an experience learning while writing. This story is a strong first draft, produced and released for all it was meant to be, a light comedy for a weekday night at home.
 
-
 ## References
 
 Bada, M., Eckert, M., Palmer, M., & Hunter, L. (2010). An Overview of the CRAFT Concept Annotation Guidelines. Proceedings of the Fourth Linguistic Annotation Workshop, 207–211. Retrieved from https://www.aclweb.org/anthology/W10-1833
