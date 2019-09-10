@@ -108,4 +108,3 @@ Kessler, S. (2019, September 4). What Went Wrong at Uber. Retrieved September 9,
 Orosz, G. (2018, April 16). Distributed architecture concepts I learned while building a large payments system. Retrieved September 9, 2019, from The Pragmatic Engineer website: https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/
 
 
-
