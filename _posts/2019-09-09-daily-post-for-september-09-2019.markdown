@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Daily Post for September 10, 2019
-summary: Rough draft ideas from things researched around September 10, 2019
-date:   2019-09-10-07:46:56
+title:  Daily Post for September 09, 2019
+summary: Rough draft ideas from things researched around September 09, 2019
+date:   2019-09-09-07:46:56
 categories: raw
 ---
 ## Distributed Systems
