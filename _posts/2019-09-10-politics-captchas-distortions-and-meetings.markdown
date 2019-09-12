@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Politics, CAPTCHAs, Distortions, and Meetings
-summary: Some notes on Nate Silver's Predictions on the Democratic field for US President, a quick overview about CAPTCHAs and web scraping, an outline of intellectual distortions, and some really good notes about how to conduct more effective meetings.
+summary: Some notes on Nate Silver's predictions on the Democratic field for US President, a quick overview about CAPTCHAs and web scraping, an outline of intellectual distortions, and some really good notes about how to conduct more effective meetings.
 date:   2019-09-10-17:52:33
 categories: raw
 ---
