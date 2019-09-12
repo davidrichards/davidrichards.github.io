@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Daily Post for September 6, 2019
+title:  Poetry, scikit-learn Interface, Machine Learning, and Craft Annotation
 summary: Conversations around poetry, the scikit-learn interface, machine learning, and craft annotation.
 date:   2019-09-06-22:20:22
 categories: raw
@@ -279,7 +279,12 @@ Sequence seven, Gabriella's old boyfriend shows up with a competing buyer for th
 
 Sequence eight, we find Gabriella deciding to keep the inn, stay in New Zealand, then check with Jake if that works for him. It's important that the main characters have their own choices, which they do here. Villains don't make decisions, heroes do. They fall in love and things end as expected. Gabriella is transformed by her journey, making her own decisions, the audience is confident in her ability to handle life.
 
+<<<<<<< HEAD
 Reading this annotation, it seems trite. Stories are meant to make us feel things, which I barely did in this case—useful for seeing classic story craft in cardboard cutout fashion. What I know I have a hard time with is writing the trite in the first draft, and asking harder questions of my stories in subsequent drafts. I want to rush all of my insight and ideas into the story too quickly, without giving me time to listen to the story and have an experience learning while writing. This story is a strong first draft, produced and released for all it was meant to be, a light comedy for a weekday night at home.
+=======
+Reading this annotation, it seems trite. Stories are meant to make us feel things, which I barely did in this case—useful for seeing classic story craft in cardboard cutout fashion. What I know I have a hard time with is writing the trite in the first draft, and asking harder questions of my stories in subsequent drafts. I want to rush all of my insight and ideas into the story too quickly, without giving me time to listen to the story and have an experience learning while writing. This story is a strong first draft, produced and released for all it was meant to be, a light comedy for a weekend night at home.
+>>>>>>> 29378c9ac4a0a044651d8e29128f365b8a2b7e9a
+
 
 ## References
 

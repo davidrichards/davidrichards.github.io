@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Daily Post for September 09, 2019
-summary: Rough draft ideas from things researched around September 09, 2019
+title:  Distributed Systems, Uber, and Cognitive Distortion
+summary: A summary of designing distributed data systems, notes on where Uber messed up, and identifying cognitive distortion.
 date:   2019-09-09-07:46:56
 categories: raw
 ---
