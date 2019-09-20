@@ -5,6 +5,7 @@ summary: Learning to appreciate what we're working with, from reading to data wo
 date:   2019-09-19-23:47:59
 categories: raw
 ---
+
 ## Reading
 
 It's easy to overlook the value of books. From a cover and a spine comes a block of paper, and in that paper are keys to the past and future, a voice living longer than the body that created it.
@@ -76,6 +77,8 @@ An alternative is to create a Celery task queue and process these in an easier-t
 [Olechwierowicz, 2018]
 
 ## Actualization
+
+<img src="https://i.imgur.com/SejlEAl.jpg" width="400" />
 
 We survive or we thrive. To survive defends against what could go wrong, dealing with risk. It is handling the basic needs: food, shelter, and companionship. To thrive seeks to transcend limits, not from fear but desire and yearning.
 
