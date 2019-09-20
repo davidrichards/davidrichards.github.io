@@ -78,7 +78,7 @@ An alternative is to create a Celery task queue and process these in an easier-t
 
 ## Actualization
 
-<img src="https://i.imgur.com/SejlEAl.jpg" width="400" />
+<img src="https://i.imgur.com/SejlEAl.jpg" width="800" />
 
 We survive or we thrive. To survive defends against what could go wrong, dealing with risk. It is handling the basic needs: food, shelter, and companionship. To thrive seeks to transcend limits, not from fear but desire and yearning.
 
