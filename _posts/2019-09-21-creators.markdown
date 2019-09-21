@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Creators
+summary: Refections on a life's work.
+date:   2019-09-21-23:47:59
+categories: raw
+---
+
+## A Note
+
+With a little practice, there’s a feeling that comes when designing different kinds of systems. After introductions and a short courtship, we work well together. Each technology stack has its strengths. I find it’s better to focus on strengths, complaining about weaknesses delays our collaboration. What matters to the system and how the technology works combine in magical intimacy. Nouns meet verbs. Ideas animate. The dance is why I do this work. I go where the dancing takes me, where possibilities collide. Sometimes I think I’ll never arrive, never build a system so sublime that I feel whole, that I’ve completed my work. Sometimes, when things didn’t go so well, I think I never could build anything whole or complete. There are many kinds of people on this planet, and amongst them there is often a version of me, the seeker striving to create something true. Protect these people. They may be lost, but their journey is inspired.
+
