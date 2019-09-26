@@ -4,6 +4,7 @@ title:  Poetry Workshop and a Deer Walks into a Bar
 summary: Some notes from Billy Collins' Masterclass, playing around with a poem from a video I saw today, and something from Jim Harrison..
 date:   2019-09-25-04:32:33
 categories: raw
+youtubeId: QH5Ka4TG6tg
 ---
 ## Reading and Writing Poetry with Billy Collins
 
@@ -145,7 +146,7 @@ Sometimes I like to write something that isn't too full of itself.
 
 And sometimes I think the poem was supposed to say something more, have great meaning, or stand up to critics' glares. Maybe this can be part of the layering process that Collins talks about, finding structure, considering rhyme, deciding what to reveal and what to hold back. My deer lines were inspired by a video clip I saw:
 
-{% include youtubePlayer.html id=QH5Ka4TG6tg %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Instead of wandering from room to room (stanza to stanza), I just stuck the reader in one place, to think about a deer in the cathederal, like they're sitting in the back filming the whole thing. And then I realize I can do that too: put the deer in the cathederal, then cut to the buddies in the yard, then have them all run back to the woods startled.
 
