@@ -200,4 +200,5 @@ See how Harrison gets deep without getting heavy?
 
 Collins, B. (2019). A Poet’s Journey. Retrieved September 11, 2019, from https://www.masterclass.com/classes/billy-collins-teaches-reading-and-writing-poetry/chapters/a-poet-s-journey?action=preview&controller=chapters&course_id=billy-collins-teaches-reading-and-writing-poetry&id=a-poet-s-journey&logged_in=true
 
+Harrison, J. (2018). Dead man’s float—West Bloomfield Twp Public Library. Retrieved September 25, 2019, from http://westbloomfield.library.link/portal/Dead-mans-float-Jim-Harrison/1QCmaI_I0lY/
 
