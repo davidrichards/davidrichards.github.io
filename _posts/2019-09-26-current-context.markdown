@@ -130,4 +130,5 @@ Reese, H. (2019, September 3). How Ideas Become Contagious Online. Retrieved Sep
 
 Timm, T. (2019, September 26). Trump’s Ukraine Scandal Shows Why Leaks Are Vital to Democracy. Retrieved September 26, 2019, from Medium website: https://gen.medium.com/trumps-ukraine-scandal-shows-why-leaks-are-vital-to-democracy-193048b251f7
 
+Wolf, T. (2019, September 26). Huggingface/transformers. Retrieved September 26, 2019, from GitHub website: https://github.com/huggingface/transformers
 
