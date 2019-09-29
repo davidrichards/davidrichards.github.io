@@ -1,0 +1,49 @@
+---
+layout: post
+title:  Language
+summary: Some notes on human language from CS 224 NLP at Stanford.
+date:   2019-09-28-06:39:02
+categories: raw
+---
+## Stanford Deep Learning NLP Course
+
+The NLP course at Stanford is about 10 times more popular than it had been for the preceding decade. Most people recognize that natural language processing is critical for the jobs we have to do right now.
+
+[Manning, 2019]
+
+### Language
+
+Language is used for many purposes, such as expressing formal things like math or logic, or working out our interpersonal relationships.
+
+Building a model of how a listener may use the language I choose to use is part of the work as well, rather than just a list of rules that need to be included when communicating. A comic for this can be found at https://xkcd.com/1576/.
+
+This implies some probabilistic function, but also there's more than just information in language, there is a social aspect as well.
+
+[Manning, 2019]
+
+
+
+### Intelligence via Language
+
+Some have said that humans are not much more intelligent than the orangutan, and on a scale of any sentient being to the theoretic limit, that is somewhat true. 
+
+However, our language is an important difference. Creatures have had eyes for about 75 million years, language for about 100 thousand years, and written language for about 5 thousand years. The path from stone age intelligence to smart-phone enabled humans is written language.
+
+[Manning, 2019]
+
+### Language as Networking
+
+Human language works as a networking tool, but it's different than a lot of our computing tools.
+
+We are developing 5G networks that are an order of magnitude more performant than the generation before, whereas language works at about 15 words per second.
+
+We expect the listener to have a lot of stored information about how the world works, so that with about 200 bits of information, someone can construct a vivid image in their mind that would take hundreds of megabytes to transfer literally.
+
+[Manning, 2019]
+
+
+## References:
+
+AustinJul. 26, J., 2002, & Am, 8:00. (2002, July 26). Writing a Research Plan. Retrieved September 28, 2019, from Science | AAAS website: https://www.sciencemag.org/careers/2002/07/writing-research-plan
+
+
