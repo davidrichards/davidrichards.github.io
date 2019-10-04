@@ -119,6 +119,6 @@ Instead of saying what a character is or has, bury that in action. Instead of ha
 ## References:
 
 Oates, J. C. (2019). MasterClass. Retrieved August 6, 2019, from https://www.masterclass.com/classes/joyce-carol-oates-teaches-the-art-of-the-short-story/chapters/principles-of-writing-short-fiction
-Palahnuk, C. (n.d.). Nuts and Bolts: “Thought” Verbs. Retrieved October 2, 2019, from LitReactor website: https://litreactor.com/essays/chuck-palahniuk/nuts-and-bolts-“thought”-verbs
 
+Palahnuk, C. (n.d.). Nuts and Bolts: “Thought” Verbs. Retrieved October 2, 2019, from LitReactor website: https://litreactor.com/essays/chuck-palahniuk/nuts-and-bolts-“thought”-verbs
 
