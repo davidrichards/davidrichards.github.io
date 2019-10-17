@@ -1,0 +1,31 @@
+---
+layout: post
+title:  SARIMA
+summary: Baseline time series models
+date:   2019-10-09-00:00:00
+categories: raw
+---
+## SARIMA for Time Series
+
+Autoregressive Integrated Moving Average, or ARIMA, is the old-school, tried-and-true approach to time series forecasting. ARIMA can handle trends, but not seasonal components. SARIMA is an extension to ARIMA that adds the seasonal component.
+
+[Brownlee, 2018]
+
+### SARIMA Hyperparameters
+
+There are three trend elements in ARIMA: p for autoregression, d for difference, and q for moving average. There are four additional parameters for SARIMA: P for seasonal autoregression, D for seasonal difference, Q for seasonal moving average, and m as the number of steps for a single seasonal period.
+
+[Brownlee, 2018]
+
+### Building SARIMA with statsmodels
+
+The statsmodels.tsa.statespace.sarimax.SARIMAX model can be used to build a SARIMA model. The X in SARIMAX stands for exogeneous variables, or a value that is determined outside the model. Given data, an order, and a seasonal order, we can specifiy a model. Fitting the model simply uses the fit method. A one-step forecast uses the forecast method.
+
+[Brownlee, 2018]
+
+
+## References:
+
+Brownlee, J. (2018, August 16). A Gentle Introduction to SARIMA for Time Series Forecasting in Python. Retrieved October 9, 2019, from Machine Learning Mastery website: https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/
+
+
