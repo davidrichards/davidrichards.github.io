@@ -6,7 +6,11 @@ date:   2019-11-15-01:39:50
 categories: summary
 ---
 
-## Topic Modeling
+# Topic Modeling
+
+Topic modeling can be a basic tool in an NLP toolkit. It can be used directly in application features as well as a feature in other models. Many common preprocessing and evaluation tools are shared with topic models and other NLP tasks.
+
+## Methods
 
 For non-deep learning methods, there seems be three main topic modeling approaches, Latent Dirichlet Allocation (LDA), Non-Negative Matrix Factorization (NMF), and Correlation Explanation (CorEx) (Kessel, 2019).
 
@@ -43,6 +47,8 @@ Most of the articles I've reviewed so far are sparse in setting up the dataset o
 Very little discussion is made on the timing and performance of these models in production. Measure how long it takes to prepare, train, and predict using these models. Measure the preprocessing time as well, as that must be applied to documents predicted in production.
 
 Most people use deep learning for topic modeling. Some of this is inherent in the large language models like BERT or Albert, but people also treat topics as a distinct task. Build deep topic models as well as generative models to see how well topics can be used in production.
+
+Using topic modeling in labs is the best way to create a practical tool out of these algorithms and ideas.
 
 In Branch, use the context of events to evaluate topic models on the event prompts. This information can be transferred to document processing tools.
 

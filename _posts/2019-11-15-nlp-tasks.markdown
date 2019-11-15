@@ -1,0 +1,27 @@
+---
+layout: post
+title:  NLP Tasks
+summary: Some focus on the tasks I'm interested in, and what I think they do for me.
+date:   2019-11-15-01:40:50
+categories: summary
+---
+
+# NLP Tasks
+
+This is an incomplete list, but I think the major tasks that I'm interested in group this way.
+
+## Grouping Tasks
+
+For grouping, filtering, and sorting, we can use topic modeling, classification, event extraction, and named entity recognition. Tell me what's important about the documents, how they stand together, or what they're basically about, and I'll be able to get the right documents in the right places. I can also say things about those groups, how relevant it is to a context or prevalent it is in people's conversations.
+
+## Model Features
+
+Embedding, encoding, and language models are all about preparing what is known about documents and language and using that in another model.
+
+## Preparation
+
+Machine translation, synonyms, hypernyms, spelling correction, and misspelling words all can be used for data preparation. This is data augmentation, preprocessing, and tools for production pipelines. The grouping tasks can also be used for this.
+
+## Focusing
+
+Document summary, question and answer, chat bot, voice interface, and semantic search are all focusing technologies. These also set us up to react to a situation or recombine information in useful summaries.
