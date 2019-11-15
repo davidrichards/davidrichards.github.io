@@ -1,0 +1,125 @@
+---
+layout: post
+title:  NLP
+summary: Named Entity Recognition, CorEx, Topic Modeling, Event Extraction
+date:   2019-11-14-01:39:50
+categories: raw
+---
+## Another LDA Tutorial
+
+Topic modeling is an NLP task that finds latent topics from a corpus of documents. There are no labels with this problem, it is an unsupervised classification task. Most commonly, this is done with Latent Dirichlet Allocation (LDA) or Non-Negative Matrix Factorization (NMF).
+
+[Subrahmannian, 2018]
+
+### Dirichlet Probability
+
+Documents are treated as a distribution of topics and topics as a distribution of words. We don't know the number of topics. This is similar to the Dirichlet process. The Dirichlet probability distribution is assumed, guiding the model to use a small number of topics per document. The topics are learned from the model based on concepts buried deep in the data.
+
+[Subrahmannian, 2018]
+
+### Build
+
+To build a model, convert the corpus to a bag of words and use the bag of words to model both the document-topic distribution and the term-topic distribution.
+
+Topic models solve the problem of a large sparse matrix. A conventional model would create a full matrix (n documents x m terms). A topic model is much smaller (n topic count by (document count + term count)). The steps are clean the data, create a vocabulary, and define a multicore model.
+
+[Subrahmannian, 2018]
+
+### A Note on Short Documents
+
+Documents in a corpus can be of different length, but very short documents are more difficult to model.
+
+[Subrahmannian, 2018]
+
+### Learning the Number of Topics
+
+The number of topics is a hyperparameter for an LDA model.
+
+To choose this value, evaluate the topic models generated. For this kind of model, there are two main ways to evaluate it: perplexity and topic coherence.
+
+Perplexity is the normalized log-likelihood of a hold out test dataset. Perplexity is not strongly correlated with human judgement. 
+
+Topic coherence is measured by the degree of semantic similarity between high scoring words. The score can be UCI or UMass. So, given the top n frequently occurring words, compute pairwise scores for each of the words, and average the scores.
+
+With a coherence model, calculate the coherence across many topic sizes, graph these values, notice they plateau, choose a value near the beginning of the plateau.
+
+[Subrahmannian, 2018]
+
+### Coherence
+
+Topics with high coherence tend to be more human understandable. We also want topics that have a significant number of words. Consider topics that both have a high coherence and a high token percentage.
+
+[Subrahmannian, 2018]
+
+### Relevance
+
+Relevance is the weighted sum of the probability of a word in a given topic and the lift. The lift for a word is the ratio of the probability of the word in the topic and in the corpus.
+
+[Subrahmannian, 2018]
+
+## Generate Events
+
+Given data with titles and timestamps, preprocess those titles and embed the sentences.
+
+Spacy has a simple average of word embeds, but Sent2Vec and SkipThoughts are more sophisticated ways to create embeddings on sentences.
+
+Cluster those embeddings. DBScan is one way to do that.
+
+Then convert the clusters into events by arranging the sentences by time and filtering for the most-relevant sentences. These become the key events for the cluster, ideally a timeline of important events from these sentences.
+
+[Nader, 2019]
+
+## Named Entity Recognition
+
+Named Entity Recognition is found in a Java implementation called CRFClassifier as well as in NLTK and Spacey. It is used for finding pre-defined categories like individuals, companies, places, organizations, cities, and dates.
+
+NER can be used directly in tools like news feeds, search results, and customer support.
+
+[Banerjee, 2019]
+
+### How to Apply NER
+
+Spacy offers the entities directly on the document object it creates (through ents). NLTK requires we tokenize the text and POS tag it first. Then the ne_chunk function can extract the named entities.
+
+[Banerjee, 2019]
+
+## NER for Location
+
+Comparisons of the NLTK, Stanford NER, and Spacy Named Entity Recognition algorithms were inconclusive. This article focuses on known US cities to compare NER for location recognition.
+
+The three algorithms are applied to the locations. The times were quite different.
+
+Spacy is 200 times faster than Stanford's older implementation in NLTK. The newer Stanford NER is over 10 times slower than Spacy. Spacy and the new Stanford NER algorithm find only about 12% of the entities. The older Stanford NER algorithm finds about 25% of the entities.
+
+[Cohen, 2019]
+
+## CorEx
+
+Correlation Explanation (CorEx) is a semi-supervised topic model that takes anchor words to represent potential topics. By first developing a sense of which topics are in the data, these models can be strengthened with the anchor words.
+
+[Kessel, 2019]
+
+### Compared to LDA and NMF
+
+Topic modeling can be done with Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF), but there can be conceptually-spurious or multi-context words in the document. Important topics overlap and the distinctions aren't found.
+
+These topics can be considered "overcooked" or "undercooked", meaning documents may over or under classify to specific topics. For example, if a document only used the word "insurance," it could refer to health or health insurance or finance.
+
+[Kessel, 2019]
+
+
+## References:
+
+Banerjee, S. (2019, August 12). Introduction to Named Entity Recognition. Retrieved November 14, 2019, from Medium website: https://medium.com/explore-artificial-intelligence/introduction-to-named-entity-recognition-eda8c97c2db1
+
+Cohen, O. (2019, June 22). A Comparison Between Spacy NER & Stanford NER Using All US City Names. Retrieved November 14, 2019, from Medium website: https://towardsdatascience.com/a-comparison-between-spacy-ner-stanford-ner-using-all-us-city-names-c4b6a547290
+
+Kessel, P. van. (2019, August 1). Overcoming the limitations of topic models with a semi-supervised approach. Retrieved November 14, 2019, from Medium website: https://medium.com/pew-research-center-decoded/overcoming-the-limitations-of-topic-models-with-a-semi-supervised-approach-b947374e0455
+
+Nader, R. (2019, May 6). Natural Language Processing—Event Extraction. Retrieved November 14, 2019, from Medium website: https://towardsdatascience.com/natural-language-processing-event-extraction-f20d634661d3
+
+Subrahmannian, S. (2018, July 19). Learn to Find Topics in a Text Corpus. Retrieved November 14, 2019, from Medium website: https://medium.com/@soorajsubrahmannian/extracting-hidden-topics-in-a-corpus-55b2214fc17d
+
+
+
+
