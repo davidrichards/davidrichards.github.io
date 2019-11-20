@@ -1,0 +1,26 @@
+---
+layout: post
+title:  Finish
+summary: This is getting serious. Finish things.
+date:   2019-11-20-01:40:50
+categories: opinion
+---
+
+I’m not getting enough finished, and I know why. I fall in love with the work and lose track of the results I’m after. I like writing code. I like finding new ways to do things. I like reading and writing. This becomes the goal.
+
+It’s OK that I like what I’m doing. It’s not vital that I like it. It’s vital that I finish it, and that it—whatever it is—is something worth doing.
+
+What do I do about it? Do less, then obsess (Hansen, 2018). Refuse work that I am not absolutely committed to complete.
+
+Easy to say, but easy to do?
+
+Of course not. It doesn’t matter. Nothing gets done unless I’m living by this principle.
+
+Today I created a master list of all unfinished work that’s currently “in process.” Holy cow, between unfinished code features, books, articles, and questions, I have about 6 months work that I’m trying to finish over the next two weeks. I can’t do it.
+
+Once I’ve decided to do something, tie myself to the mast—ensure my fate coincides with the tasks I’ve accepted. This idea comes from the Odyssey and Odysseus’s command to his men to tie him to the mast so he didn’t fall prey to the Sirens’ song. It worked. Remove distractions. Make success dependent on the very few things I’m committed to finishing.
+
+## References
+
+Hansen, M. T. (2018). Great at Work. Retrieved from https://www.simonandschuster.com/books/Great-at-Work/Morten-T-Hansen/9781476765624
+

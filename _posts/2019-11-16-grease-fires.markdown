@@ -6,7 +6,7 @@ date:   2019-11-16-01:40:50
 categories: opinion
 ---
 
-When writing software, there are principles that make it easier to deliver something valuable.
+When writing software, there are principles that make it easier to deliver something valuable. Just like I would rather have a working furnace in my basement than a grease fire on my stove, I would rather have a complicated but reliable software system than one that was quick to throw together.
 
 It's better to build a furnace than start a grease fire. A grease fire usually comes up with cooking, the cooking grease is on fire. The problem with a grease fire is water and oil don't mix, so throwing water on a stove on fire spreads the fire. Soon the whole kitchen and later the house is burning because the energy of that fire isn't contained by throwing water on it, or letting it burn on horizontal surfaces.
 
