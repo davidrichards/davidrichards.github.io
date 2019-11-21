@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Qlik
+summary: I'm impressed with Qlik. It feels consistent with the tools we're building at Branch. There are fundamental differences between our approaches that I outline here.
+date:   2019-11-21-01:40:50
+categories: opinion
+---
+
+What I’m doing with Branch is similar to Qlik, but with focus. Qlik delivers data better and faster than most data projects can deliver. At its heart, Qlik trusts that data is the language of business and speaking this language well, influences how things get done. Doing data slow, making a project out of it, only delivering half measures is a losing strategy. With automated pipelines, deep tools around data quality, and the flexibility is a a winning strategy.
+
+Why not just use Qlik?
+
+Branch focuses on the complexity of life and uses agreement to make sense of it. Specifically, Branch focuses on the bureaucracies, policies, regulations, road blocks, and details that make collaboration difficult. You find these kinds of problems when signing a contract, collecting payment on invoices, hiring or firing people, and expanding the business. By focusing on the agreements first, we start to figure out what matters, when things are falling apart, where the risks are building up, and how to focus people’s attention.
+
+But Branch still takes the same kind of automated pipeline that Qlik creates. The heart of the whole business is an event stream that can be expanded quickly and flexibly. Every bit of awareness and functionality we seek works on a data pipeline.
+
+In this way, our focus is not to invest in what has been done, but to invest in new processes that do it better. Later, once things are moving with better processes and more effective insight, we can come back and look at old data stores and decide whether to leverage that data for future business.
