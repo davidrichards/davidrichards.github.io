@@ -1,0 +1,100 @@
+---
+layout: post
+title:  D3
+summary: D3 is great, but not as a data visualization library.
+date:   2019-11-21-06:51:39
+categories: raw
+---
+## D3 is More than Data Visualization
+
+D3 is a lot more than just visualization. It handles data visualization, including a large set of features for geological features. It also includes animation, analysis, data utilities, and DOM utilities.
+
+[Meeks, 2018]
+
+### DOM Manipulation
+
+There is a select/enter/exit/update pattern that most D3 features use to layer functionality into a DOM element. However, there are also dragging, zooming, dispatching, and fetch features. 
+
+Understanding how these DOM management features works is critical when working with different JS libraries or expectations from a team.
+
+Know that you don't have to use D3 to manipulate the DOM, and it's important that you don't when D3 introduces conflicts. You don't need hacky and brittle DOM management code.
+
+[Meeks, 2018]
+
+### Lodash
+
+Lodash features creates the ability to transform, clean, and format data in the browser. This includes min, max, set, map. Some of these are weak, like the D3 time formatting is not as strong as the moment library.
+
+There are quite a few other ways to measure and format the data that larger teams will use.
+
+[Meeks, 2018]
+
+### Animation
+
+Although animation is impressive, it's less important than how the data is presented and whether that's effective for the audience. GSAP may be a better animation library than D3.
+
+[Meeks, 2018]
+
+### Data Organization
+
+D3's d3-dsv is probably industry leading for parsing tabular data. Quadtrees make network data easier to use. Binning and nesting works really well with d3-collections and d3-array.
+
+[Meeks, 2018]
+
+### Drawable Data
+
+Data visualization with D3 is at its strongest when creating drawable data from source data, such as SVG paths or data visualization elements like an axis. 
+
+Think of these visualization elements as generators, components, and layouts. Pass the data generators and layouts create to the DOM with components.
+
+For example, a datapoint or array values are passed into generators that create something like areas, lines, or arcs that become SVG path elements. Functions are passed into components that produce axes and brushes that become elements and event listeners. Whole datasets are passed into layouts that create things like stacks, pies, and chords that become annotated datasets ready for graphical layout.
+
+Most complex data visualization is combinatorial, so developing an intuitive grasp of how the generators, components, and layouts work is important. Most people learn DOM management and not the actual data visualization functionality, making D3 a difficult library to use.
+
+[Meeks, 2018]
+
+### Specific Drawing Tools
+
+The d3-shape functions are powerful, but Path2D is another way to visualize data using vanilla JS.
+
+Scales and interpolators are used for projecting. Scales can transform data from one mode to another such as quantizing scales and can make it easy to calculate ticks.
+
+The d3-hierarchy functions are great for dendograms, treemaps, and sunburts, but they can also be used to slice and analyze data.
+
+The d3-force features are constraint-based force-directed layouts, generic enough to use most anywhere.
+
+The d3-color and d3-color-schemes are good, but chroma.js may be better for beginners.
+
+There is a problem with d3-selection, axis, and brush features, because they reach into the DOM and create elements directly, making it harder to integrate D3 with Vue or React.
+
+The most value gained from learning D3 is learning visualization methods like hulls, contours, voronoi polygons, and chord diagrams. Knowing how these processes convert data to drawing instructions is important for advanced visualization work.
+
+[Meeks, 2018]
+
+### Geo
+
+The d3-geo tools are powerful, but very specific. It's useful for neogeographers learning cartograms, raster reprojection, and similar things.
+
+There are a powerful set of features, such as GeoJSON translation to paths, finding centroids, creating bounding boxes, and doing spherical math, shapes, and steradians.
+
+All of this comes with a high learning curve. The kepler.gl or Mapbox projects may be better early use geographic tools.
+
+[Meeks, 2018]
+
+### Learning Strategy
+
+People generally have a hard time learning D3.
+
+Exposing oneself to DOM manipulation first adds a barrier.
+
+Learn how to create data visualization products and focus on the part of the library that assists.
+
+D3 doesn't combine as well when people treat it like a contained ecosystem instead of a collection of tools. In other words, learning how to combine work to create data visualizations comes first, learning how D3 does it is important, and learning what other tools can do this better is a useful way to build visualization products.
+
+[Meeks, 2018]
+
+
+## References:
+
+Meeks, E. (2018, June 11). D3 is not a Data Visualization Library. Retrieved November 21, 2019, from Medium website: https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520
+
