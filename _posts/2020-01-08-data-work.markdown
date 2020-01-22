@@ -1,0 +1,37 @@
+---
+layout: post
+title:  Data Work
+summary: Comparing my views with the Data Project Checklist.
+date:   2020-01-08-03:18:20
+categories: opinion
+---
+
+Data work, even when done well, is expensive. Learning how to do it better is in all our best interest. I've seen enough personally to respect what Jeremy Howard has to say about building data products.
+
+## History 
+
+Over the years I've built a lot of data products. Some of them have gone really well. One thing I haven't liked about the current approach many of us take in working with data is often our results are not reproducible. Tell me if this sounds familiar.
+
+We're given a task that's important to a business. Possibly they are organized and ready. Possibly they're not. We want to do well, we crack open the best tools at our disposal, and with some effort we get some good results. Probably we learn to predict something important with a reasonably high accuracy.
+
+So far so good.
+
+Getting that model where it's useful, improving it, making sure the effort is profitable—that's a lot more work.
+
+Also, often a good idea goes to waste. I don't know how often I've gotten started on a model, only to be interrupted by something else that's urgent. This is how the work goes.
+
+## Better Approach
+
+Of course there's a better way, because many people have done this. My goal, yours too, is to increase the odds we'll do good every chance we get.
+
+Skills is a good place to start. Who can do the work? Are they being promoted and supported? What skills are next for you and me? Are people being protected so they can stick it out and make things work?
+
+What is the point? What advantages are being developed? What profits are driven by this work?
+
+Is the data strong, coming from useful places? Are people collaborating so we can keep things up to date? Is the whole group able to work with the whole company?
+
+This is a very short summary of a really good resource. Check it out.
+
+## Reference
+
+Howard, J. (2020, January 7). Data project checklist · fast.ai. https://www.fast.ai/2020/01/07/data-questionnaire/

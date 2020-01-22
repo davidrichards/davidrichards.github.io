@@ -18,7 +18,7 @@ So, reachability would involve how the network grows. I would also want to model
 
 Imagine reachability and interaction are critical to profitability, so this question remains stable in everyone's minds as important. I learn quite a bit more about what's led to my success, but I also have really good tools to figure out what something new may mean.
 
-As an example, say I decide to track college degrees into the attributes I track in my network. I get some data and update my models. Knowing about the education of each person, do I know more about reachability and interaction? Does education behave more like job title or more like hobbies?
+As an example, say I decide to add college degrees into the attributes I track in my network. I get some data and update my models. Knowing about the education of each person, do I know more about reachability and interaction? Does education behave more like job title or more like hobbies?
 
 From here I can experiment with ways to encourage more-profitable behavior in my network. I know the factors that drive people. I know if new factors are significant, and if so in what way they are significant. I can direct what features to put in the application, what approaches to try in marketing, and which reports to provide.
 
