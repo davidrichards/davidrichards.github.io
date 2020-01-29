@@ -8,7 +8,7 @@ categories: opinion
 
 Growing up, I was taught to review my day in prayer as a form of meekness and gratitude. It feels vulnerable to say that out loud, but it's a practice I learned to enjoy. Imagine a little boy, fists still chubby in pre-Kindergarten years. I prayed mostly in those days to see my little sister again, who died of cancer, and bargained to do whatever it took to feel safe with her again.
 
-Seneca teaches the same, "I will keep constant watch over myself and—most usefully—will put each day up for review." Seneca learned and taught a daily review as a matter of principle, dignity, and empowerment. Stoic philosophy in general and Seneca specifically are great examples of lives well lives.
+Seneca teaches the same, "I will keep constant watch over myself and—most usefully—will put each day up for review." Seneca learned and taught a daily review as a matter of principle, dignity, and empowerment. Stoic philosophy in general and Seneca specifically are great examples of lives well lived.
 
 Seth Godin does the same writing something every day. It's been a habit for years. By saying something meaningful to him and daring to share it, it's shaped my life and certainly his as well.
 
