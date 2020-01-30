@@ -1,0 +1,61 @@
+---
+layout: post
+title:  Logics
+summary: Some notes on different logics, refreshing what might be useful for knowledge base work.
+date:   2020-01-29-03:18:20
+categories: raw
+---
+
+## Ontologies
+
+There are many types of things declared in an ontology. A class can be declared. An individual can be declared. A class assertion assigns an individual to a class. A subclass assertion assigns an individual to a subclass. A property declaration attaches a property. Property assertions relate an individual to data or another individual. Negative property assertions ensure the relation between an individual and data or another individual doesn't exist. Finally, an annotation assertion comments on a declaration.
+
+[Kuba 2012]
+
+### Description Logics Axioms
+
+There are many property axioms: transitive, symmetric, asymmetric, reflexive, irreflexive, functional, inverse-functional, inverse, sub property, equivalent, and disjoint. Property chains create extended relationships, such as uncle which is the chain of parent and brother.
+
+[Kuba, 2012]
+
+### Propositional Logic
+
+Propositional logic combine two atomic propositions, are true or false, also using negation (¬A), and (A∧B), or (A∨B), and implication (A→B).
+
+[Kuba, 2012]
+
+### Predicate Logic
+
+Predicate logic adds predicates (P(x,y)), adding quantifiers existential ∃ ("there exists") and universal ∀ ("for all").
+
+First order predict logic involve elements of sets. Higher order logics consider range over sets. It is not decidable, meaning validity can be proven but non-validity cannot be proven. The tableaux algorithm can be used to prove predicate logic.
+
+[Kuba, 2012]
+
+### Limits to Descriptive Logics
+
+Descriptive logics, like OWL 1's SHOIN(D) and OWL 2's SROIQ(D). OWL 1 cannot relate parent and sibling, but OWL 2 can. OWL 2 cannot relate the relationship between parents of the individual. SWRL can relate individuals to parents, but it is not DL-safe, so not included in SROIQ.
+
+Specifically, DL cannot do fuzzy expressions (it often rains in autumn), non-monotonic expressions (birds fly, penguins are birds, but penguins do not fly), propositional attitudes (Eve thinks that 2 is not a prime number—something she believes untrue that is actually true), and modal logic. Modal logic involves possibility and necessity (it is possible that it will rain today), epistemic modalities (Even knows that 2 is a prime number), temporal logic (I am always hungry), and deontic logic (you must do this).
+
+[Kuba, 2012]
+
+### Transparent Intensional Logic
+
+Transparent Intensional Logic is a complete set of logic. (Kuba, 2012)
+
+Separating a term's meaning from it's designation involves intensional logic. The morning star and evening star both designate Venus, but all three terms have different meanings. Intensional logic studies designation and meaning and the relationship between these.
+
+Meaning can be an intension and designation can be an extension. A context where extension is all that matters is an extensional context. A context where extension is not enough is an intensional context. Mathematics is extensional. A conversation starting with, "It is known that," is intensional. When we state what is known, believed, informative, said, astonishing, or setting up a conversation to generally accept meaning, then we are setting an intensional context.
+
+[Fitting, 2020]
+
+## A Better Plan
+
+I mentioned recently an idea of learning knowledge bases with toy problems. I was thinking a mere transfer learning apparatus would be enough. It's not. So, instead, taking a look at language models, attention networks, Transformers, ULMFiT, and Intensional Logics should be enough to create a structure that can hold knowledge base information well. Then, either an explicit knowledge base import or a chatbot with a feedback loop specific to intensional logics would work better.
+
+## References
+
+Fitting, M. (2020). Intensional Logic. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Spring 2020). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/spr2020/entries/logic-intensional/
+
+Kuba, M. (2012). OWL 2 and SWRL Tutorial. https://dior.ics.muni.cz/~makub/owl/
