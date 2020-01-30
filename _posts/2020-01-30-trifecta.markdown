@@ -69,3 +69,9 @@ Also, it might just be an application consideration. Build things that work with
 However, when dealing with extension logic, systems matter there for meaning. It's a computational thing too, not just static. Trillions of dollars in unspent oil and gas reserves are part of a system, but calculating their effect in small, tractable, meaningful ways could be important for common sense to be available to a system.
 
 Maybe systems are both logics and solvers, and must be addressed on some meta level for any system to reach its potential impact in our lives.
+
+—
+
+After thinking about this for a few hours, I've realized the system is the state, or the context of the task. It's values in the input vector, a parallel network in a multi-modal architecture, the state of the application. Given how systemic pressure influences my task, provide a larger picture than the data being processed.
+
+So yes, system knowledge is critical. Common sense isn't really there without it. But I don't think it's a special thing that changes what I can or can't do in my main tasks.
