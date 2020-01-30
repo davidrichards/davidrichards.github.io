@@ -1,0 +1,71 @@
+---
+layout: post
+title:  Trifecta
+summary: My bet on the top-three sense mechanisms that make intelligent systems tractable
+date:   2020-01-30-03:18:20
+categories: opinion
+---
+
+I've been thinking about common sense in intelligent systems. There are at least three tools that make this work. My bet is they are:
+
+* solvers
+* logics
+* systems
+
+## Solvers
+
+Beyond pattern matching, our systems should do something. It's nice when a model can exceed human capacity in some task, but direct those tasks, and the effort begins to matter.
+
+The combinatorics version of this is there are some problems, even complex ones, that have precise answers. We can get from point A to point B efficiently, even when there are problems in transit. We can determine if two things are alike, even when they are complex networks, We can determine which parts of a system match, and how large those parts are. We can maximize profits and minimize costs. We can plan nutritious meals that we actually want to eat and that match a budget.
+
+## Logics
+
+If common sense is the goal, then there needs to be a way to express it. There is the precise meaning of words and then there is the extensions we give them. Our labels, patterns, and words all have this sense available to them.
+
+This can work as a focusing effort. If a system is incomplete, a logical structure gives us room to store the completing information.
+
+Most science fiction authors imagine a world where AI is always off beat, like a foreign exchange student that gets along fairly well, but can always be counted on for comedic effect. Involving logics in our systems allows us to clean that up. If toddlers can figure that out, our systems can too.
+
+## Systems
+
+Systems describe how things interact, but they are also important for predicting what happens next.
+
+An example is the intelligence services of any modern country. Field agents gather information from the bottom up so that larger forces can be understood. They are establishing credible claims about coalitions, conflicts, and the endgames people are working towards.
+
+When considering how larger forces work in our physical and social systems, we begin to develop a sense of what matters. Grasping how the electoral system works in US politics focuses operatives on Michigan politics more than Utah politics. Describing greenhouse physics leads us to recognize issues with the climate. Describing the economic value of untapped fossil fuels leads us to recognize issue that oppose addressing the climate.
+
+What I'm saying is even a rudimentary knowledge of the sources and sinks in our systems today lead us to recognize why things matter.
+
+## Why These Matter
+
+Imagine a navigation system that takes me the long way around. I trusted one when picking my son up from a remote location and it cost me over $3,000 in car repairs. (A dirt road was not maintained, had grass growing on it, and I drove over a pile of rocks that damaged my axle, oil pan, and radiator.) Solvers should take into account real-world information.
+
+Imagine being a cocky soldier, suffering from gigantism and the symptoms that come with it: near blindness, awkwardness, and slowness. Going up against an agile foe, you have no chance. Now you have Malcolm Gladwell's version of David and Goliath and why of course David slew Goliath. The systems of relative function and size of our work matters.
+
+Imagine traveling in a foreign country and only grasping the literal translation of words. When you're butchering the conversation and people are telling you Bulgarian is a hard language, they aren't expressing sympathy, they are telling me to speak like I mean it. Annunciate. Sense must be addressable if we are to have any of it.
+
+On the positive side, we're talking about:
+
+* Chat bots that can not only follow tangents, but realize how loosely-coupled ideas hold together.
+* Patient advocacy that can follow a doctor's instructions as well as recognize when everything changes.
+* Complex agreements that can be translated into coordinated work.
+* Agents that can negotiate agreement on behalf of their principals.
+* Anomaly detection that can escalate issues when they're important.
+
+In other words, we're talking about specialized products that can really get into the most important aids they can give humans, even when the problems are complex and nuanced.
+
+## What's Not Important?
+
+Solvers give us tactical advantage, systems give us strategic advantage, and logics make sense of all this activity. If these three concepts are the most-important concepts to include in intelligent systems, what didn't make the cut?
+
+Unfortunately, I've only been able to imagine how various data applications would fail without these three tools. I don't have better ideas about common sense tools at this point.
+
+## Big Hole
+
+There is a gap in my thinking: I don't know what to do with systems. Logics can be implemented with Attention Networks. Solvers can be implemented with a blackbox architecture and a linear loss function. Systems might just be another type of blackbox solver, meaning it's not a different kind of anything. If that's true, then it's just a meta solver.
+
+Also, it might just be an application consideration. Build things that work with real-world systems.
+
+However, when dealing with extension logic, systems matter there for meaning. It's a computational thing too, not just static. Trillions of dollars in unspent oil and gas reserves are part of a system, but calculating their effect in small, tractable, meaningful ways could be important for common sense to be available to a system.
+
+Maybe systems are both logics and solvers, and must be addressed on some meta level for any system to reach its potential impact in our lives.
