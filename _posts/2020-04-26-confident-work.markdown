@@ -6,6 +6,13 @@ date:   2020-04-26-03:18:20
 categories: opinion
 ---
 
+# Needs work:
+
+* spell checking
+* some line editing
+* [critical review](https://imgur.com/gallery/rMeOEfR)
+* cited ideas
+
 A pattern I've noticed is I can get very busy and get very little done. This happens when I'm stressed, which has been most of the time for several years. This is a virtuous cycle, meaning stress creates more stress because the gap between expectations and reality is growing. A systemic way to address this is to realign expectations to reality.
 
 ### Runaway System
