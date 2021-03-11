@@ -12,7 +12,7 @@ It's good to think, no? The problem I have is I get overwhelmed with work and th
 
 One idea, from Sean Kernan is to find similar words and then seek the furthest word from the original word. His example starts with snail and slug and ends with snail and alphabet. The trick is the sequence of words, where candidate words are considered.
 
-I found the [word of the day](randomword.com), wigeon, learned that it is a type of freshwater duck, and compared it to pigeon. Fun, no? They both trill off the tongue as well as create ambiance for tourists in a non-threatening way, usually. There are three extant species of wigeon, and one extinct. So, wigeon, falcon, anvil, lava, plasma, sun burst. I couldn't find any word that was more dissimilar than sun burst in the way I was exploring my words, though a different sequence would be interesting too.
+I found the [word of the day](https://randomword.com/), wigeon, learned that it is a type of freshwater duck, and compared it to pigeon. Fun, no? They both trill off the tongue as well as create ambiance for tourists in a non-threatening way, usually. There are three extant species of wigeon, and one extinct. So, wigeon, falcon, anvil, lava, plasma, sun burst. I couldn't find any word that was more dissimilar than sun burst in the way I was exploring my words, though a different sequence would be interesting too.
 
 ## Music
 
